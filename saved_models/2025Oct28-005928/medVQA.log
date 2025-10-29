@@ -1,0 +1,416 @@
+Tue, 28 Oct 2025 00:59:28 INFO >>>The net is:
+Tue, 28 Oct 2025 00:59:28 INFO BAN_Model(
+  (w_emb): WordEmbedding(
+    (emb): Embedding(1178, 300, padding_idx=1177)
+    (emb_): Embedding(1178, 300, padding_idx=1177)
+    (dropout): Dropout(p=0.0, inplace=False)
+  )
+  (q_emb): QuestionEmbedding(
+    (rnn): GRU(600, 1024, batch_first=True)
+  )
+  (close_att): BiAttention(
+    (logits): BCNet(
+      (v_net): FCNet(
+        (main): Sequential(
+          (0): Dropout(p=0.2, inplace=False)
+          (1): Linear(in_features=128, out_features=3072, bias=True)
+          (2): ReLU()
+        )
+      )
+      (q_net): FCNet(
+        (main): Sequential(
+          (0): Dropout(p=0.2, inplace=False)
+          (1): Linear(in_features=1024, out_features=3072, bias=True)
+          (2): ReLU()
+        )
+      )
+      (dropout): Dropout(p=0.5, inplace=False)
+      (p_net): AvgPool1d(kernel_size=(3,), stride=(3,), padding=(0,))
+    )
+  )
+  (close_resnet): BiResNet(
+    (b_net): ModuleList(
+      (0): BCNet(
+        (v_net): FCNet(
+          (main): Sequential(
+            (0): Dropout(p=0.2, inplace=False)
+            (1): Linear(in_features=128, out_features=1024, bias=True)
+            (2): ReLU()
+          )
+        )
+        (q_net): FCNet(
+          (main): Sequential(
+            (0): Dropout(p=0.2, inplace=False)
+            (1): Linear(in_features=1024, out_features=1024, bias=True)
+            (2): ReLU()
+          )
+        )
+        (dropout): Dropout(p=0.5, inplace=False)
+      )
+      (1): BCNet(
+        (v_net): FCNet(
+          (main): Sequential(
+            (0): Dropout(p=0.2, inplace=False)
+            (1): Linear(in_features=128, out_features=1024, bias=True)
+            (2): ReLU()
+          )
+        )
+        (q_net): FCNet(
+          (main): Sequential(
+            (0): Dropout(p=0.2, inplace=False)
+            (1): Linear(in_features=1024, out_features=1024, bias=True)
+            (2): ReLU()
+          )
+        )
+        (dropout): Dropout(p=0.5, inplace=False)
+      )
+    )
+    (q_prj): ModuleList(
+      (0): FCNet(
+        (main): Sequential(
+          (0): Dropout(p=0.2, inplace=False)
+          (1): Linear(in_features=1024, out_features=1024, bias=True)
+        )
+      )
+      (1): FCNet(
+        (main): Sequential(
+          (0): Dropout(p=0.2, inplace=False)
+          (1): Linear(in_features=1024, out_features=1024, bias=True)
+        )
+      )
+    )
+    (c_prj): ModuleList()
+  )
+  (close_classifier): SimpleClassifier(
+    (main): Sequential(
+      (0): Linear(in_features=1024, out_features=2048, bias=True)
+      (1): ReLU()
+      (2): Dropout(p=0.5, inplace=False)
+      (3): Linear(in_features=2048, out_features=56, bias=True)
+    )
+  )
+  (open_att): BiAttention(
+    (logits): BCNet(
+      (v_net): FCNet(
+        (main): Sequential(
+          (0): Dropout(p=0.2, inplace=False)
+          (1): Linear(in_features=128, out_features=3072, bias=True)
+          (2): ReLU()
+        )
+      )
+      (q_net): FCNet(
+        (main): Sequential(
+          (0): Dropout(p=0.2, inplace=False)
+          (1): Linear(in_features=1024, out_features=3072, bias=True)
+          (2): ReLU()
+        )
+      )
+      (dropout): Dropout(p=0.5, inplace=False)
+      (p_net): AvgPool1d(kernel_size=(3,), stride=(3,), padding=(0,))
+    )
+  )
+  (open_resnet): BiResNet(
+    (b_net): ModuleList(
+      (0): BCNet(
+        (v_net): FCNet(
+          (main): Sequential(
+            (0): Dropout(p=0.2, inplace=False)
+            (1): Linear(in_features=128, out_features=1024, bias=True)
+            (2): ReLU()
+          )
+        )
+        (q_net): FCNet(
+          (main): Sequential(
+            (0): Dropout(p=0.2, inplace=False)
+            (1): Linear(in_features=1024, out_features=1024, bias=True)
+            (2): ReLU()
+          )
+        )
+        (dropout): Dropout(p=0.5, inplace=False)
+      )
+      (1): BCNet(
+        (v_net): FCNet(
+          (main): Sequential(
+            (0): Dropout(p=0.2, inplace=False)
+            (1): Linear(in_features=128, out_features=1024, bias=True)
+            (2): ReLU()
+          )
+        )
+        (q_net): FCNet(
+          (main): Sequential(
+            (0): Dropout(p=0.2, inplace=False)
+            (1): Linear(in_features=1024, out_features=1024, bias=True)
+            (2): ReLU()
+          )
+        )
+        (dropout): Dropout(p=0.5, inplace=False)
+      )
+    )
+    (q_prj): ModuleList(
+      (0): FCNet(
+        (main): Sequential(
+          (0): Dropout(p=0.2, inplace=False)
+          (1): Linear(in_features=1024, out_features=1024, bias=True)
+        )
+      )
+      (1): FCNet(
+        (main): Sequential(
+          (0): Dropout(p=0.2, inplace=False)
+          (1): Linear(in_features=1024, out_features=1024, bias=True)
+        )
+      )
+    )
+    (c_prj): ModuleList()
+  )
+  (open_classifier): SimpleClassifier(
+    (main): Sequential(
+      (0): Linear(in_features=1024, out_features=2048, bias=True)
+      (1): ReLU()
+      (2): Dropout(p=0.5, inplace=False)
+      (3): Linear(in_features=2048, out_features=431, bias=True)
+    )
+  )
+  (typeatt): typeAttention(
+    (w_emb): WordEmbedding(
+      (emb): Embedding(1178, 300, padding_idx=1177)
+      (dropout): Dropout(p=0.0, inplace=False)
+    )
+    (q_emb): QuestionEmbedding(
+      (rnn): GRU(300, 1024, batch_first=True)
+    )
+    (q_final): QuestionAttention(
+      (tanh_gate): Linear(in_features=1324, out_features=1024, bias=True)
+      (sigmoid_gate): Linear(in_features=1324, out_features=1024, bias=True)
+      (attn): Linear(in_features=1024, out_features=1, bias=True)
+    )
+    (f_fc1): Linear(in_features=1024, out_features=2048, bias=True)
+    (f_fc2): Linear(in_features=2048, out_features=1024, bias=True)
+    (f_fc3): Linear(in_features=1024, out_features=1024, bias=True)
+  )
+  (maml): SimpleCNN(
+    (conv1): Conv2d(1, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+    (conv1_bn): BatchNorm2d(64, eps=1e-05, momentum=0.05, affine=True, track_running_stats=True)
+    (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+    (conv2_bn): BatchNorm2d(64, eps=1e-05, momentum=0.05, affine=True, track_running_stats=True)
+    (conv3): Conv2d(64, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+    (conv3_bn): BatchNorm2d(64, eps=1e-05, momentum=0.05, affine=True, track_running_stats=True)
+    (conv4): Conv2d(64, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+    (conv4_bn): BatchNorm2d(64, eps=1e-05, momentum=0.05, affine=True, track_running_stats=True)
+  )
+  (ae): Auto_Encoder_Model(
+    (conv1): Conv2d(1, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (max_pool1): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv2): Conv2d(64, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (max_pool2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (conv3): Conv2d(32, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (tran_conv1): ConvTranspose2d(16, 32, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), output_padding=(1, 1))
+    (conv4): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (tran_conv2): ConvTranspose2d(32, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), output_padding=(1, 1))
+    (conv5): Conv2d(64, 1, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+  )
+  (convert): Linear(in_features=16384, out_features=64, bias=True)
+)
+Tue, 28 Oct 2025 00:59:28 INFO >>>The args is:
+Tue, 28 Oct 2025 00:59:28 INFO Namespace(seed=5, gpu=-1, input=None, output='saved_models', epochs=100, lr=0.005, batch_size=64, update_freq='1', print_interval=20, clip_norm=0.25, eps_cnn=1e-05, momentum_cnn=0.05, use_data=True, data_dir='D:\\USC\\Deep Learning\\med-vqa_2/data', activation='relu', dropout=0.5, attention='BAN', glimpse=2, use_counter=False, num_stacks=2, rnn='GRU', question_len=12, tfidf=True, cat=True, hid_dim=1024, v_dim=64, autoencoder=True, ae_model_path='pretrained_ae.pth', ae_alpha=0.001, maml=True, maml_model_path='pretrained_maml.weights', other_model=False, details='original ', device=device(type='cpu'))
+Tue, 28 Oct 2025 01:03:24 INFO -------[Epoch]:0-------
+Tue, 28 Oct 2025 01:03:24 INFO [Train] Loss:0.379837 , Train_Acc:29.536554%
+Tue, 28 Oct 2025 01:07:40 INFO -------[Epoch]:1-------
+Tue, 28 Oct 2025 01:07:40 INFO [Train] Loss:0.048008 , Train_Acc:33.975197%
+Tue, 28 Oct 2025 01:12:06 INFO -------[Epoch]:2-------
+Tue, 28 Oct 2025 01:12:06 INFO [Train] Loss:0.044074 , Train_Acc:38.740208%
+Tue, 28 Oct 2025 01:15:15 INFO -------[Epoch]:3-------
+Tue, 28 Oct 2025 01:15:15 INFO [Train] Loss:0.040350 , Train_Acc:43.701046%
+Tue, 28 Oct 2025 01:18:08 INFO -------[Epoch]:4-------
+Tue, 28 Oct 2025 01:18:08 INFO [Train] Loss:0.035967 , Train_Acc:46.736294%
+Tue, 28 Oct 2025 01:21:15 INFO -------[Epoch]:5-------
+Tue, 28 Oct 2025 01:21:15 INFO [Train] Loss:0.033516 , Train_Acc:49.184074%
+Tue, 28 Oct 2025 01:24:22 INFO -------[Epoch]:6-------
+Tue, 28 Oct 2025 01:24:22 INFO [Train] Loss:0.030594 , Train_Acc:50.652740%
+Tue, 28 Oct 2025 01:27:31 INFO -------[Epoch]:7-------
+Tue, 28 Oct 2025 01:27:31 INFO [Train] Loss:0.027770 , Train_Acc:52.480419%
+Tue, 28 Oct 2025 01:30:40 INFO -------[Epoch]:8-------
+Tue, 28 Oct 2025 01:30:40 INFO [Train] Loss:0.025566 , Train_Acc:54.960835%
+Tue, 28 Oct 2025 01:33:47 INFO -------[Epoch]:9-------
+Tue, 28 Oct 2025 01:33:47 INFO [Train] Loss:0.023354 , Train_Acc:57.506527%
+Tue, 28 Oct 2025 01:36:57 INFO -------[Epoch]:10-------
+Tue, 28 Oct 2025 01:36:57 INFO [Train] Loss:0.020452 , Train_Acc:60.672325%
+Tue, 28 Oct 2025 01:40:06 INFO -------[Epoch]:11-------
+Tue, 28 Oct 2025 01:40:06 INFO [Train] Loss:0.017818 , Train_Acc:65.241516%
+Tue, 28 Oct 2025 01:43:15 INFO -------[Epoch]:12-------
+Tue, 28 Oct 2025 01:43:15 INFO [Train] Loss:0.016010 , Train_Acc:69.647522%
+Tue, 28 Oct 2025 01:46:24 INFO -------[Epoch]:13-------
+Tue, 28 Oct 2025 01:46:24 INFO [Train] Loss:0.013926 , Train_Acc:73.563972%
+Tue, 28 Oct 2025 01:49:34 INFO -------[Epoch]:14-------
+Tue, 28 Oct 2025 01:49:34 INFO [Train] Loss:0.011768 , Train_Acc:77.317230%
+Tue, 28 Oct 2025 01:52:45 INFO -------[Epoch]:15-------
+Tue, 28 Oct 2025 01:52:45 INFO [Train] Loss:0.009202 , Train_Acc:81.886421%
+Tue, 28 Oct 2025 01:55:57 INFO -------[Epoch]:16-------
+Tue, 28 Oct 2025 01:55:57 INFO [Train] Loss:0.007762 , Train_Acc:85.117493%
+Tue, 28 Oct 2025 01:59:12 INFO -------[Epoch]:17-------
+Tue, 28 Oct 2025 01:59:12 INFO [Train] Loss:0.006425 , Train_Acc:87.402092%
+Tue, 28 Oct 2025 02:02:25 INFO -------[Epoch]:18-------
+Tue, 28 Oct 2025 02:02:25 INFO [Train] Loss:0.006036 , Train_Acc:89.131851%
+Tue, 28 Oct 2025 02:05:38 INFO -------[Epoch]:19-------
+Tue, 28 Oct 2025 02:05:38 INFO [Train] Loss:0.004845 , Train_Acc:91.057442%
+Tue, 28 Oct 2025 02:08:57 INFO -------[Epoch]:20-------
+Tue, 28 Oct 2025 02:08:57 INFO [Train] Loss:0.004108 , Train_Acc:92.787209%
+Tue, 28 Oct 2025 02:12:18 INFO -------[Epoch]:21-------
+Tue, 28 Oct 2025 02:12:18 INFO [Train] Loss:0.003620 , Train_Acc:93.798958%
+Tue, 28 Oct 2025 02:15:32 INFO -------[Epoch]:22-------
+Tue, 28 Oct 2025 02:15:32 INFO [Train] Loss:0.004202 , Train_Acc:94.614883%
+Tue, 28 Oct 2025 02:18:46 INFO -------[Epoch]:23-------
+Tue, 28 Oct 2025 02:18:46 INFO [Train] Loss:0.003021 , Train_Acc:95.691910%
+Tue, 28 Oct 2025 02:22:02 INFO -------[Epoch]:24-------
+Tue, 28 Oct 2025 02:22:02 INFO [Train] Loss:0.002465 , Train_Acc:96.409920%
+Tue, 28 Oct 2025 02:25:21 INFO -------[Epoch]:25-------
+Tue, 28 Oct 2025 02:25:21 INFO [Train] Loss:0.001868 , Train_Acc:97.062660%
+Tue, 28 Oct 2025 02:28:42 INFO -------[Epoch]:26-------
+Tue, 28 Oct 2025 02:28:42 INFO [Train] Loss:0.001934 , Train_Acc:97.813316%
+Tue, 28 Oct 2025 02:32:01 INFO -------[Epoch]:27-------
+Tue, 28 Oct 2025 02:32:01 INFO [Train] Loss:0.001884 , Train_Acc:97.584854%
+Tue, 28 Oct 2025 02:35:22 INFO -------[Epoch]:28-------
+Tue, 28 Oct 2025 02:35:22 INFO [Train] Loss:0.001987 , Train_Acc:97.584854%
+Tue, 28 Oct 2025 02:38:43 INFO -------[Epoch]:29-------
+Tue, 28 Oct 2025 02:38:43 INFO [Train] Loss:0.002765 , Train_Acc:97.421669%
+Tue, 28 Oct 2025 02:41:58 INFO -------[Epoch]:30-------
+Tue, 28 Oct 2025 02:41:58 INFO [Train] Loss:0.002316 , Train_Acc:97.715408%
+Tue, 28 Oct 2025 02:45:16 INFO -------[Epoch]:31-------
+Tue, 28 Oct 2025 02:45:16 INFO [Train] Loss:0.001525 , Train_Acc:97.878593%
+Tue, 28 Oct 2025 02:48:45 INFO -------[Epoch]:32-------
+Tue, 28 Oct 2025 02:48:45 INFO [Train] Loss:0.001373 , Train_Acc:98.172325%
+Tue, 28 Oct 2025 02:52:02 INFO -------[Epoch]:33-------
+Tue, 28 Oct 2025 02:52:02 INFO [Train] Loss:0.001959 , Train_Acc:97.780678%
+Tue, 28 Oct 2025 02:55:26 INFO -------[Epoch]:34-------
+Tue, 28 Oct 2025 02:55:26 INFO [Train] Loss:0.001333 , Train_Acc:98.433418%
+Tue, 28 Oct 2025 02:58:46 INFO -------[Epoch]:35-------
+Tue, 28 Oct 2025 02:58:46 INFO [Train] Loss:0.002598 , Train_Acc:97.650131%
+Tue, 28 Oct 2025 03:02:00 INFO -------[Epoch]:36-------
+Tue, 28 Oct 2025 03:02:00 INFO [Train] Loss:0.001740 , Train_Acc:98.302872%
+Tue, 28 Oct 2025 03:05:16 INFO -------[Epoch]:37-------
+Tue, 28 Oct 2025 03:05:16 INFO [Train] Loss:0.001404 , Train_Acc:98.302872%
+Tue, 28 Oct 2025 03:08:36 INFO -------[Epoch]:38-------
+Tue, 28 Oct 2025 03:08:36 INFO [Train] Loss:0.001100 , Train_Acc:98.466057%
+Tue, 28 Oct 2025 03:11:59 INFO -------[Epoch]:39-------
+Tue, 28 Oct 2025 03:11:59 INFO [Train] Loss:0.000847 , Train_Acc:98.759789%
+Tue, 28 Oct 2025 03:15:27 INFO -------[Epoch]:40-------
+Tue, 28 Oct 2025 03:15:27 INFO [Train] Loss:0.001140 , Train_Acc:98.629242%
+Tue, 28 Oct 2025 03:18:51 INFO -------[Epoch]:41-------
+Tue, 28 Oct 2025 03:18:51 INFO [Train] Loss:0.001250 , Train_Acc:98.400780%
+Tue, 28 Oct 2025 03:22:17 INFO -------[Epoch]:42-------
+Tue, 28 Oct 2025 03:22:17 INFO [Train] Loss:0.001068 , Train_Acc:98.531334%
+Tue, 28 Oct 2025 03:25:45 INFO -------[Epoch]:43-------
+Tue, 28 Oct 2025 03:25:45 INFO [Train] Loss:0.001234 , Train_Acc:98.759789%
+Tue, 28 Oct 2025 03:29:15 INFO -------[Epoch]:44-------
+Tue, 28 Oct 2025 03:29:15 INFO [Train] Loss:0.000723 , Train_Acc:98.792427%
+Tue, 28 Oct 2025 03:32:44 INFO -------[Epoch]:45-------
+Tue, 28 Oct 2025 03:32:44 INFO [Train] Loss:0.000797 , Train_Acc:98.727158%
+Tue, 28 Oct 2025 03:36:12 INFO -------[Epoch]:46-------
+Tue, 28 Oct 2025 03:36:12 INFO [Train] Loss:0.000678 , Train_Acc:98.988251%
+Tue, 28 Oct 2025 03:39:45 INFO -------[Epoch]:47-------
+Tue, 28 Oct 2025 03:39:45 INFO [Train] Loss:0.000680 , Train_Acc:99.118797%
+Tue, 28 Oct 2025 03:43:16 INFO -------[Epoch]:48-------
+Tue, 28 Oct 2025 03:43:16 INFO [Train] Loss:0.000695 , Train_Acc:98.759789%
+Tue, 28 Oct 2025 03:46:53 INFO -------[Epoch]:49-------
+Tue, 28 Oct 2025 03:46:53 INFO [Train] Loss:0.000962 , Train_Acc:98.629242%
+Tue, 28 Oct 2025 03:46:53 INFO [Checkpoint] Saved model at epoch 49
+Tue, 28 Oct 2025 03:50:26 INFO -------[Epoch]:50-------
+Tue, 28 Oct 2025 03:50:26 INFO [Train] Loss:0.001039 , Train_Acc:98.890343%
+Tue, 28 Oct 2025 03:54:01 INFO -------[Epoch]:51-------
+Tue, 28 Oct 2025 03:54:01 INFO [Train] Loss:0.001083 , Train_Acc:98.596603%
+Tue, 28 Oct 2025 03:57:25 INFO -------[Epoch]:52-------
+Tue, 28 Oct 2025 03:57:25 INFO [Train] Loss:0.001620 , Train_Acc:98.466057%
+Tue, 28 Oct 2025 04:00:49 INFO -------[Epoch]:53-------
+Tue, 28 Oct 2025 04:00:49 INFO [Train] Loss:0.001509 , Train_Acc:98.759789%
+Tue, 28 Oct 2025 04:04:11 INFO -------[Epoch]:54-------
+Tue, 28 Oct 2025 04:04:11 INFO [Train] Loss:0.000781 , Train_Acc:98.727158%
+Tue, 28 Oct 2025 04:07:40 INFO -------[Epoch]:55-------
+Tue, 28 Oct 2025 04:07:40 INFO [Train] Loss:0.000617 , Train_Acc:99.053528%
+Tue, 28 Oct 2025 04:11:11 INFO -------[Epoch]:56-------
+Tue, 28 Oct 2025 04:11:11 INFO [Train] Loss:0.000596 , Train_Acc:98.857704%
+Tue, 28 Oct 2025 04:14:47 INFO -------[Epoch]:57-------
+Tue, 28 Oct 2025 04:14:47 INFO [Train] Loss:0.000630 , Train_Acc:98.890343%
+Tue, 28 Oct 2025 04:18:22 INFO -------[Epoch]:58-------
+Tue, 28 Oct 2025 04:18:22 INFO [Train] Loss:0.000594 , Train_Acc:99.020889%
+Tue, 28 Oct 2025 04:21:52 INFO -------[Epoch]:59-------
+Tue, 28 Oct 2025 04:21:52 INFO [Train] Loss:0.000621 , Train_Acc:98.955612%
+Tue, 28 Oct 2025 04:25:21 INFO -------[Epoch]:60-------
+Tue, 28 Oct 2025 04:25:21 INFO [Train] Loss:0.000611 , Train_Acc:98.955612%
+Tue, 28 Oct 2025 04:28:54 INFO -------[Epoch]:61-------
+Tue, 28 Oct 2025 04:28:54 INFO [Train] Loss:0.000561 , Train_Acc:99.118797%
+Tue, 28 Oct 2025 04:32:27 INFO -------[Epoch]:62-------
+Tue, 28 Oct 2025 04:32:27 INFO [Train] Loss:0.000592 , Train_Acc:98.955612%
+Tue, 28 Oct 2025 04:36:01 INFO -------[Epoch]:63-------
+Tue, 28 Oct 2025 04:36:01 INFO [Train] Loss:0.000548 , Train_Acc:99.053528%
+Tue, 28 Oct 2025 04:39:35 INFO -------[Epoch]:64-------
+Tue, 28 Oct 2025 04:39:35 INFO [Train] Loss:0.000528 , Train_Acc:98.988251%
+Tue, 28 Oct 2025 04:43:10 INFO -------[Epoch]:65-------
+Tue, 28 Oct 2025 04:43:10 INFO [Train] Loss:0.000532 , Train_Acc:99.184074%
+Tue, 28 Oct 2025 04:46:33 INFO -------[Epoch]:66-------
+Tue, 28 Oct 2025 04:46:33 INFO [Train] Loss:0.001005 , Train_Acc:98.922974%
+Tue, 28 Oct 2025 04:50:05 INFO -------[Epoch]:67-------
+Tue, 28 Oct 2025 04:50:05 INFO [Train] Loss:0.000672 , Train_Acc:98.988251%
+Tue, 28 Oct 2025 04:53:43 INFO -------[Epoch]:68-------
+Tue, 28 Oct 2025 04:53:43 INFO [Train] Loss:0.000834 , Train_Acc:99.020889%
+Tue, 28 Oct 2025 04:57:17 INFO -------[Epoch]:69-------
+Tue, 28 Oct 2025 04:57:17 INFO [Train] Loss:0.000991 , Train_Acc:98.759789%
+Tue, 28 Oct 2025 05:00:50 INFO -------[Epoch]:70-------
+Tue, 28 Oct 2025 05:00:50 INFO [Train] Loss:0.000707 , Train_Acc:98.825066%
+Tue, 28 Oct 2025 05:04:29 INFO -------[Epoch]:71-------
+Tue, 28 Oct 2025 05:04:29 INFO [Train] Loss:0.000548 , Train_Acc:99.184074%
+Tue, 28 Oct 2025 05:08:06 INFO -------[Epoch]:72-------
+Tue, 28 Oct 2025 05:08:06 INFO [Train] Loss:0.000735 , Train_Acc:99.053528%
+Tue, 28 Oct 2025 05:11:40 INFO -------[Epoch]:73-------
+Tue, 28 Oct 2025 05:11:40 INFO [Train] Loss:0.000809 , Train_Acc:99.086159%
+Tue, 28 Oct 2025 05:15:07 INFO -------[Epoch]:74-------
+Tue, 28 Oct 2025 05:15:07 INFO [Train] Loss:0.000917 , Train_Acc:99.053528%
+Tue, 28 Oct 2025 05:18:32 INFO -------[Epoch]:75-------
+Tue, 28 Oct 2025 05:18:32 INFO [Train] Loss:0.001080 , Train_Acc:98.922974%
+Tue, 28 Oct 2025 05:22:12 INFO -------[Epoch]:76-------
+Tue, 28 Oct 2025 05:22:12 INFO [Train] Loss:0.000827 , Train_Acc:98.825066%
+Tue, 28 Oct 2025 05:25:45 INFO -------[Epoch]:77-------
+Tue, 28 Oct 2025 05:25:45 INFO [Train] Loss:0.000831 , Train_Acc:98.955612%
+Tue, 28 Oct 2025 05:29:10 INFO -------[Epoch]:78-------
+Tue, 28 Oct 2025 05:29:10 INFO [Train] Loss:0.000706 , Train_Acc:98.792427%
+Tue, 28 Oct 2025 05:32:45 INFO -------[Epoch]:79-------
+Tue, 28 Oct 2025 05:32:45 INFO [Train] Loss:0.000777 , Train_Acc:99.020889%
+Tue, 28 Oct 2025 05:36:19 INFO -------[Epoch]:80-------
+Tue, 28 Oct 2025 05:36:19 INFO [Train] Loss:0.000628 , Train_Acc:99.053528%
+Tue, 28 Oct 2025 05:39:45 INFO -------[Epoch]:81-------
+Tue, 28 Oct 2025 05:39:45 INFO [Train] Loss:0.000571 , Train_Acc:99.151436%
+Tue, 28 Oct 2025 05:43:14 INFO -------[Epoch]:82-------
+Tue, 28 Oct 2025 05:43:14 INFO [Train] Loss:0.000533 , Train_Acc:99.151436%
+Tue, 28 Oct 2025 05:46:43 INFO -------[Epoch]:83-------
+Tue, 28 Oct 2025 05:46:43 INFO [Train] Loss:0.000542 , Train_Acc:99.151436%
+Tue, 28 Oct 2025 05:50:18 INFO -------[Epoch]:84-------
+Tue, 28 Oct 2025 05:50:18 INFO [Train] Loss:0.000471 , Train_Acc:99.184074%
+Tue, 28 Oct 2025 05:53:58 INFO -------[Epoch]:85-------
+Tue, 28 Oct 2025 05:53:58 INFO [Train] Loss:0.001157 , Train_Acc:98.759789%
+Tue, 28 Oct 2025 05:57:26 INFO -------[Epoch]:86-------
+Tue, 28 Oct 2025 05:57:26 INFO [Train] Loss:0.000550 , Train_Acc:99.086159%
+Tue, 28 Oct 2025 06:01:02 INFO -------[Epoch]:87-------
+Tue, 28 Oct 2025 06:01:02 INFO [Train] Loss:0.000445 , Train_Acc:99.151436%
+Tue, 28 Oct 2025 06:04:30 INFO -------[Epoch]:88-------
+Tue, 28 Oct 2025 06:04:30 INFO [Train] Loss:0.000466 , Train_Acc:98.857704%
+Tue, 28 Oct 2025 06:08:04 INFO -------[Epoch]:89-------
+Tue, 28 Oct 2025 06:08:04 INFO [Train] Loss:0.000440 , Train_Acc:99.151436%
+Tue, 28 Oct 2025 06:11:45 INFO -------[Epoch]:90-------
+Tue, 28 Oct 2025 06:11:45 INFO [Train] Loss:0.000587 , Train_Acc:99.151436%
+Tue, 28 Oct 2025 06:15:22 INFO -------[Epoch]:91-------
+Tue, 28 Oct 2025 06:15:22 INFO [Train] Loss:0.000623 , Train_Acc:98.922974%
+Tue, 28 Oct 2025 06:19:02 INFO -------[Epoch]:92-------
+Tue, 28 Oct 2025 06:19:02 INFO [Train] Loss:0.000706 , Train_Acc:99.118797%
+Tue, 28 Oct 2025 06:22:41 INFO -------[Epoch]:93-------
+Tue, 28 Oct 2025 06:22:41 INFO [Train] Loss:0.000601 , Train_Acc:98.988251%
+Tue, 28 Oct 2025 06:26:14 INFO -------[Epoch]:94-------
+Tue, 28 Oct 2025 06:26:14 INFO [Train] Loss:0.000442 , Train_Acc:99.184074%
+Tue, 28 Oct 2025 06:29:56 INFO -------[Epoch]:95-------
+Tue, 28 Oct 2025 06:29:56 INFO [Train] Loss:0.000423 , Train_Acc:99.151436%
+Tue, 28 Oct 2025 06:33:39 INFO -------[Epoch]:96-------
+Tue, 28 Oct 2025 06:33:39 INFO [Train] Loss:0.000476 , Train_Acc:99.053528%
+Tue, 28 Oct 2025 06:37:16 INFO -------[Epoch]:97-------
+Tue, 28 Oct 2025 06:37:16 INFO [Train] Loss:0.000422 , Train_Acc:99.281982%
+Tue, 28 Oct 2025 06:41:02 INFO -------[Epoch]:98-------
+Tue, 28 Oct 2025 06:41:02 INFO [Train] Loss:0.000559 , Train_Acc:98.922974%
+Tue, 28 Oct 2025 06:44:44 INFO -------[Epoch]:99-------
+Tue, 28 Oct 2025 06:44:44 INFO [Train] Loss:0.000511 , Train_Acc:99.086159%
+Tue, 28 Oct 2025 06:44:45 INFO [Checkpoint] Saved model at epoch 99

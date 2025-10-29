@@ -1,0 +1,54 @@
+2025-10-28 12:53:20,052 INFO     ============================================================
+2025-10-28 12:53:20,057 INFO     VQA Model Evaluation on Test Set
+2025-10-28 12:53:20,057 INFO     ============================================================
+2025-10-28 12:53:20,057 INFO     Model path: saved_models/trained_weights/vqa_model_10epochs.pth
+2025-10-28 12:53:20,057 INFO     Classifier path: saved_models/type_classifier.pth
+2025-10-28 12:53:20,058 INFO     Device: cpu
+2025-10-28 12:53:20,058 INFO     Batch size: 64
+2025-10-28 12:53:20,196 INFO     Test samples: 451
+2025-10-28 12:53:20,935 INFO     Model loaded successfully
+2025-10-28 12:53:20,935 INFO     
+Evaluating on test set...
+2025-10-28 12:53:32,809 INFO     ============================================================
+2025-10-28 12:53:32,809 INFO     EVALUATION RESULTS
+2025-10-28 12:53:32,809 INFO     ============================================================
+2025-10-28 12:53:32,809 INFO     Total Test Samples: 451
+2025-10-28 12:53:32,809 INFO     Total Accuracy: 0.00%
+2025-10-28 12:53:32,809 INFO     
+2025-10-28 12:53:32,809 INFO     CLOSED-ended Questions:
+2025-10-28 12:53:32,809 INFO       Samples: 272
+2025-10-28 12:53:32,825 INFO       Correct: 0
+2025-10-28 12:53:32,825 INFO       Accuracy: 0.00%
+2025-10-28 12:53:32,825 INFO     
+2025-10-28 12:53:32,825 INFO     OPEN-ended Questions:
+2025-10-28 12:53:32,825 INFO       Samples: 179
+2025-10-28 12:53:32,825 INFO       Correct: 0
+2025-10-28 12:53:32,825 INFO       Accuracy: 0.00%
+2025-10-28 12:53:32,825 INFO     ============================================================
+2025-10-28 12:53:53,140 INFO     ============================================================
+2025-10-28 12:53:53,140 INFO     VQA Model Evaluation on Test Set
+2025-10-28 12:53:53,140 INFO     ============================================================
+2025-10-28 12:53:53,140 INFO     Model path: saved_models/2025Oct28-005928/checkpoint_epoch_99.pth
+2025-10-28 12:53:53,140 INFO     Classifier path: saved_models/type_classifier.pth
+2025-10-28 12:53:53,140 INFO     Device: cpu
+2025-10-28 12:53:53,140 INFO     Batch size: 64
+2025-10-28 12:53:53,182 INFO     Test samples: 451
+2025-10-28 12:53:54,073 INFO     Model loaded from checkpoint at epoch 99
+2025-10-28 12:53:54,073 INFO     
+Evaluating on test set...
+2025-10-28 12:54:05,318 INFO     ============================================================
+2025-10-28 12:54:05,318 INFO     EVALUATION RESULTS
+2025-10-28 12:54:05,318 INFO     ============================================================
+2025-10-28 12:54:05,318 INFO     Total Test Samples: 451
+2025-10-28 12:54:05,318 INFO     Total Accuracy: 67.18%
+2025-10-28 12:54:05,320 INFO     
+2025-10-28 12:54:05,320 INFO     CLOSED-ended Questions:
+2025-10-28 12:54:05,320 INFO       Samples: 272
+2025-10-28 12:54:05,320 INFO       Correct: 209
+2025-10-28 12:54:05,320 INFO       Accuracy: 76.84%
+2025-10-28 12:54:05,320 INFO     
+2025-10-28 12:54:05,320 INFO     OPEN-ended Questions:
+2025-10-28 12:54:05,320 INFO       Samples: 179
+2025-10-28 12:54:05,320 INFO       Correct: 94
+2025-10-28 12:54:05,322 INFO       Accuracy: 52.51%
+2025-10-28 12:54:05,322 INFO     ============================================================
