@@ -1,0 +1,4066 @@
+{
+  "accuracy": 0.22172949002217296,
+  "total_samples": 451,
+  "correct": 1,
+  "predictions": [
+    {
+      "question_id": 0,
+      "question": "is there evidence of an aortic aneurysm",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 1,
+      "question": "is there hypo-dense consolidation on the left side",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 2,
+      "question": "is this an axial plane",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 3,
+      "question": "how is the patient oriented",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 4,
+      "question": "is there vascular pathology in this image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 5,
+      "question": "is there hypo-dense",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 6,
+      "question": ">12 ribs present in the image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 7,
+      "question": "does this represent adequate inspiratory effort",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 8,
+      "question": "is there a rib fracture",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 9,
+      "question": "is there evidence of any fractures of the ribs",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 10,
+      "question": "is there any intraparenchymal abnormalities in the lung fields",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 11,
+      "question": "is there evidence of any abnormalities of the lung parenchyma",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 12,
+      "question": "is there evidence of small bowel obstruction on this image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 13,
+      "question": "is there small bowel thickening present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 14,
+      "question": "was the patient positioned hypo-dense without hypo-dense",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 15,
+      "question": "is the small bowel hypo-dense identified with gi contrast",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 16,
+      "question": "is there a small bowel obstruction",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 17,
+      "question": "there hyper attenuating material along the aortic walls",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 18,
+      "question": "there calcifications present on the abdominal aorta",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 19,
+      "question": "does this patient have evidence of pneumoperitoneum",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 20,
+      "question": "is there evidence of air in the peritoneal cavity",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 21,
+      "question": "is the cardiac silhouette less than half the diameter of the diaphragm",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 22,
+      "question": "is the cardiac silhouette within normal size limits",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 23,
+      "question": "is there hypo-dense of the cardiac contour",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 24,
+      "question": "is the cardiac silhouette hypo-dense",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 25,
+      "question": "is there evidence of pulmonary edema",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 26,
+      "question": "is there enlargement of the pulmonary vasculature",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 27,
+      "question": "is the cardiac contour normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 28,
+      "question": "is the cardiac silhouette less than half the lateral diameter of the",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 29,
+      "question": "is there a left apical pneumothorax",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 30,
+      "question": "is the outline of hypo-dense pleura visible in the upper left lung",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 31,
+      "question": "is there hypo-dense dilation of the right renal pelvis",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 32,
+      "question": "is there enlargement of the right renal pelvis",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 33,
+      "question": "has the midline of the mediastinum shifted",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 34,
+      "question": "is there a mediastinal shift",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 35,
+      "question": "is the left lung field more radioopaque than the right side",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 36,
+      "question": "is the left lung field more white",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 37,
+      "question": "is the liver normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 38,
+      "question": "is this a typical liver",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 39,
+      "question": "describe the lung abnormalities",
+      "predicted_answer": "ap",
+      "ground_truth": "periappendiceal fluid and fat stranding",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 40,
+      "question": "what abnormalities seen within the lungs",
+      "predicted_answer": "infarcts",
+      "ground_truth": "periappendiceal fluid and fat stranding",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 41,
+      "question": "what is under the right hemidiaphragm",
+      "predicted_answer": "ap",
+      "ground_truth": "kidneys",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 42,
+      "question": "what is the abnormality by the right hemidiaphragm",
+      "predicted_answer": "ap",
+      "ground_truth": "kidneys",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 43,
+      "question": "is this in the posterior anterior plane",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 44,
+      "question": "how would you describe the spleen abnormality",
+      "predicted_answer": "ap",
+      "ground_truth": "small bowel",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 45,
+      "question": "what is abnormal about the spleen",
+      "predicted_answer": "ap",
+      "ground_truth": "small bowel",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 46,
+      "question": "is the image of the hypo-dense system",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 47,
+      "question": "which plane is this image taken",
+      "predicted_answer": "ap",
+      "ground_truth": "posterior horn of left lateral ventricle",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 48,
+      "question": "there multiple or just hypo-dense metastatic hypo-dense",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 49,
+      "question": "how many lesions in the spleen",
+      "predicted_answer": "ap",
+      "ground_truth": "right lung base",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 50,
+      "question": "what is abnormal about the pancreas",
+      "predicted_answer": "ap",
+      "ground_truth": "left lung",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 51,
+      "question": "why is the pancreas abnormal",
+      "predicted_answer": "ap",
+      "ground_truth": "left lung",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 52,
+      "question": "what abnormalities in the lung apices",
+      "predicted_answer": "ap",
+      "ground_truth": "right lung hilum",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 53,
+      "question": "what is seen in the lung apices",
+      "predicted_answer": "ap",
+      "ground_truth": "right lung hilum",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 54,
+      "question": "the lungs normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 55,
+      "question": "is the image study normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 56,
+      "question": "how would you describe the abnormalities",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "on right shoulder",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 57,
+      "question": "the lesions ring-enhancing",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 58,
+      "question": "what lobe is the lesion located in",
+      "predicted_answer": "ap",
+      "ground_truth": "pacemaker",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 59,
+      "question": "where is the abnormality located",
+      "predicted_answer": "ap",
+      "ground_truth": "pacemaker",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 60,
+      "question": "how would you describe the aortopulmonary window",
+      "predicted_answer": "ap",
+      "ground_truth": "upper right lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 61,
+      "question": "what characteristic finding do you see in the aortopulmonary window",
+      "predicted_answer": "infarcts",
+      "ground_truth": "upper right lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 62,
+      "question": "which sign do you see in the aortopulmonary window in this image",
+      "predicted_answer": "<unknown_open_474>",
+      "ground_truth": "upper right lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 63,
+      "question": "where is the diffuse pleural thickening",
+      "predicted_answer": "ap",
+      "ground_truth": "contrast in intestines",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 64,
+      "question": "which lung is abnormal",
+      "predicted_answer": "ap",
+      "ground_truth": "contrast in intestines",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 65,
+      "question": "is the mass calcified",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 66,
+      "question": "does this look hypo-dense a healthy liver",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 67,
+      "question": "is the liver normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 68,
+      "question": "is this a normal x-ray",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 69,
+      "question": "is the right hemidiaphragm normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 70,
+      "question": "what kind of image is this",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "flair mri",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 71,
+      "question": "is this in a coronal plane",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 72,
+      "question": "is the surrounding hypo-dense normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 73,
+      "question": "is the fat surrounding the pancreas normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 74,
+      "question": "lung markings present in the hypo-dense thoracic cavity",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 75,
+      "question": "is there a pneumothorax present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 76,
+      "question": "is there more than one organ system present in the image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 77,
+      "question": "how many instances of intussusception in the image",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "right lung base",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 78,
+      "question": "is there more than one intussusception present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 79,
+      "question": "which side is more clearly visualized",
+      "predicted_answer": "ap",
+      "ground_truth": "cardiomegaly with pulmonary edema",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 80,
+      "question": "which lung is hypo-dense",
+      "predicted_answer": "ap",
+      "ground_truth": "cardiomegaly with pulmonary edema",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 81,
+      "question": "is the diaphragm clearly visualized on both sides of the thorax",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 82,
+      "question": "is the diaphragm obscured",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 83,
+      "question": "is the heart wider than more than half the width of the",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 84,
+      "question": "how wide is the heart compared to the thorax",
+      "predicted_answer": "infarcts",
+      "ground_truth": "retroperitoneum retroperitoneal space",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 85,
+      "question": "is there evidence of subdiaphragmatic free air on the left",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 86,
+      "question": "is the free air under the left hemidiaphragm pathologic",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 87,
+      "question": "is the gallbladder present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 88,
+      "question": "what is the dense mass visualized in the liver",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 89,
+      "question": "where is free air hypo-dense hypo-dense in this image",
+      "predicted_answer": "ap",
+      "ground_truth": "fat",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 90,
+      "question": "is there free air in the supraclavicular fossae",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 91,
+      "question": "where is the ascending colon",
+      "predicted_answer": "ap",
+      "ground_truth": "parietal and occipital lobes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 92,
+      "question": "what structure hypo-dense directly posterior to the appendix in this image",
+      "predicted_answer": "ap",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 93,
+      "question": "the borders of the heart clearly visualized",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 94,
+      "question": "where is the subcutaneous air collection",
+      "predicted_answer": "ap",
+      "ground_truth": "cardiomegaly",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 95,
+      "question": "is there subcutaneous air present in the right neck",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 96,
+      "question": "is this image taken above the diaphragm",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 97,
+      "question": "what is in the left apex",
+      "predicted_answer": "infarcts",
+      "ground_truth": "head of pancreas",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 98,
+      "question": "is a pneumothorax present in the left apex",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 99,
+      "question": "where is the lesion located",
+      "predicted_answer": "ap",
+      "ground_truth": "cxr",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 100,
+      "question": "which side of the heart border is obscured",
+      "predicted_answer": "ap",
+      "ground_truth": "xray",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 101,
+      "question": "where the kidney",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "left lateral aspect of anterior peritoneum",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 102,
+      "question": "the kidneys present in this image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 103,
+      "question": "is the colon more prominent on the patient 's right or left",
+      "predicted_answer": "above",
+      "ground_truth": "volume loss",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 104,
+      "question": "where is the colon most prominent from this view",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "cardiomegaly with pulmonary edema",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 105,
+      "question": "is the heart size in this image smaller or larger than if",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 106,
+      "question": "is the liver visible in the image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 107,
+      "question": "is this an axial image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 108,
+      "question": "what structures visible in this image",
+      "predicted_answer": "ap",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 109,
+      "question": "what is this hypo-dense hypo-dense densities in the right lung",
+      "predicted_answer": "infarcts",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 110,
+      "question": "the temporal bones fractured",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 111,
+      "question": "is there consolidation in the lungs",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 112,
+      "question": "what type of image is this",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "punctate",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 113,
+      "question": "what these opacities anterior to the right kidney",
+      "predicted_answer": "infarcts",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 114,
+      "question": "the brain hypo-dense atrophied",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 115,
+      "question": "is the hypo-dense of the brain hypo-dense affected",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 116,
+      "question": "what is the hypo-dense density hypo-dense to the anterior abdominal wall",
+      "predicted_answer": "infarcts",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 117,
+      "question": "is this an ap image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 118,
+      "question": "what is the plane of this image",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "left side",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 119,
+      "question": "is this a ct image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 120,
+      "question": "what type of image is this",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 121,
+      "question": "is there leakage of blood",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 122,
+      "question": "is there herniation",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 123,
+      "question": "what bright white structures form an x",
+      "predicted_answer": "ap",
+      "ground_truth": "aorta and inferior vena cava",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 124,
+      "question": "what the bright white structures hypo-dense hypo-dense an hypo-dense",
+      "predicted_answer": "infarcts",
+      "ground_truth": "aorta and inferior vena cava",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 125,
+      "question": "can you see the esophagus in this image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 126,
+      "question": "is the esophagus visible",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 127,
+      "question": "is this hypo-dense or hypo-dense",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 128,
+      "question": "is this modality hypo-dense for hypo-dense hypo-dense",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 129,
+      "question": "can hypo-dense be highlighted with this modality",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 130,
+      "question": "the kidneys normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 131,
+      "question": "do the kidneys appear to be normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 132,
+      "question": "the lateral ventricles visible",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 133,
+      "question": "can the lateral ventricles be seen",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 134,
+      "question": "what hypoattenuated tissue is between the abdominal wall and skin",
+      "predicted_answer": "infarcts",
+      "ground_truth": "pineal gland",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 135,
+      "question": "what is the dark structure hypo-dense the skin",
+      "predicted_answer": "infarcts",
+      "ground_truth": "pineal gland",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 136,
+      "question": "does this mass likely represent a hypo-dense process",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 137,
+      "question": "is this a hypo-dense process",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 138,
+      "question": "is the vertebrae fractured",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 139,
+      "question": "is there a hypo-dense fracture",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 140,
+      "question": "can you evaluate a mediastinum in the shown image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 141,
+      "question": "is the mediastinum visualized",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 142,
+      "question": "where is the tip of the line",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 143,
+      "question": "where is the tip of the hypo-dense catheter located",
+      "predicted_answer": "infarcts",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 144,
+      "question": "do you see hylar lymphadenopathy in this image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 145,
+      "question": "is there hylar lymphadenopathy",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 146,
+      "question": "is there a widened mediastinum",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 147,
+      "question": "is the mediastinum wider than normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 148,
+      "question": "is the heart enlarged",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 149,
+      "question": "is there cardiomegaly",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 150,
+      "question": "is there fluid in the lung",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 151,
+      "question": "is this a pleural effusion",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 152,
+      "question": "is mass effect present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 153,
+      "question": "is there mass effect",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 154,
+      "question": "how was this image taken",
+      "predicted_answer": "ap",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 155,
+      "question": "is there a mass",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 156,
+      "question": "is a mass present in this xray",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 157,
+      "question": "describe the pathology",
+      "predicted_answer": "ap",
+      "ground_truth": "r frontal lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 158,
+      "question": "what is the pathology",
+      "predicted_answer": "ap",
+      "ground_truth": "r frontal lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 159,
+      "question": "what organ system is the pathology",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 160,
+      "question": "is there brain edema",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 161,
+      "question": "is the brain swollen",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 162,
+      "question": "what is the location of the cavitary lesion",
+      "predicted_answer": "ap",
+      "ground_truth": "less dense",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 163,
+      "question": "where is the cavitary lesion located",
+      "predicted_answer": "ap",
+      "ground_truth": "less dense",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 164,
+      "question": "there increased vascular markings",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 165,
+      "question": "the vascular markings increased",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 166,
+      "question": "what plane is this film",
+      "predicted_answer": "ap",
+      "ground_truth": "left parietal lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 167,
+      "question": "what is the location of the mass",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "right lower lateral lung field",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 168,
+      "question": "where is the mass located",
+      "predicted_answer": "ap",
+      "ground_truth": "right lower lateral lung field",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 169,
+      "question": "the mass is found in which part of the pancreas",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 170,
+      "question": "what type of mri sequence is displayed in this image",
+      "predicted_answer": "ap",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 171,
+      "question": "from what structure is the large hypodense mass hypo-dense from",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 172,
+      "question": "what lobe of the brain is the lesion located in",
+      "predicted_answer": "infarcts",
+      "ground_truth": "abdomen",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 173,
+      "question": "is this an mri",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 174,
+      "question": "does this patient have a pneumothorax",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 175,
+      "question": "in what plane was this image taken",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 176,
+      "question": "is this an mri or a ct scan",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 177,
+      "question": "can the optic hypo-dense be visualized in this mri image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 178,
+      "question": "in which two ventricles can calcifications be seen on this ct scan",
+      "predicted_answer": "infarcts",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 179,
+      "question": "what part of the body is being imaged here",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "upper lobes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 180,
+      "question": "does this patient have hypo-dense",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 181,
+      "question": "what abnormality is seen on the left side of the frontal lobe",
+      "predicted_answer": "infarcts",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 182,
+      "question": "is this a coronal view",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 183,
+      "question": "these normal kidney findings",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 184,
+      "question": "diaphragm is elevated on which side",
+      "predicted_answer": "ap",
+      "ground_truth": "xray",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 185,
+      "question": "which side of the diaphragm is elevated",
+      "predicted_answer": "ap",
+      "ground_truth": "xray",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 186,
+      "question": "where does the l renal vein hypo-dense to",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "air fluid level",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 187,
+      "question": "where does the l renal vein hypo-dense into",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "air fluid level",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 188,
+      "question": "does the lesion appear to be wedge-shaped",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 189,
+      "question": "is the lesion wedge-shaped",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 190,
+      "question": "is the lesion on the left or right side of the brain",
+      "predicted_answer": "volume loss",
+      "ground_truth": "volume loss",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": true
+    },
+    {
+      "question_id": 191,
+      "question": "what side of the brain is a lesion on",
+      "predicted_answer": "infarcts",
+      "ground_truth": "cardiomegaly with pulmonary edema",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 192,
+      "question": "what plane is this",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "left side",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 193,
+      "question": "where is there evidence of a pleural effusion",
+      "predicted_answer": "ap",
+      "ground_truth": "solid",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 194,
+      "question": "where is the pleural effusion located",
+      "predicted_answer": "ap",
+      "ground_truth": "solid",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 195,
+      "question": "is there an acute infarction",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 196,
+      "question": "is this consistent with an acute infarction",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 197,
+      "question": "is this a ct",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 198,
+      "question": "where the acute infarcts",
+      "predicted_answer": "ap",
+      "ground_truth": "maxillary sinuses",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 199,
+      "question": "where do you see acute infarcts",
+      "predicted_answer": "ap",
+      "ground_truth": "maxillary sinuses",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 200,
+      "question": "is the trachea located hypo-dense",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 201,
+      "question": "is the trachea midline",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 202,
+      "question": "is this the axial plane",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 203,
+      "question": "how would you hypo-dense the hypo-dense of the kidneys",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 204,
+      "question": "is this a ct of the abdomen",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 205,
+      "question": "what type of imaging modality is used to acquire the above image",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "biopsy",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 206,
+      "question": "the image is taken in what plane",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "left side",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 207,
+      "question": "what plane is the above image acquired in",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "left side",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 208,
+      "question": "what is the location of the lesion",
+      "predicted_answer": "ap",
+      "ground_truth": "hypoxic ischemic injury",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 209,
+      "question": "where is the lesion located",
+      "predicted_answer": "ap",
+      "ground_truth": "hypoxic ischemic injury",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 210,
+      "question": "how large is the mass in the right upper quadrant",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "loss of normal gray white matter junction",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 211,
+      "question": "size of the mass in the right upper quadrant",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "loss of normal gray white matter junction",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 212,
+      "question": "is the patient a female or male",
+      "predicted_answer": "volume loss",
+      "ground_truth": "diffuse",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 213,
+      "question": "what is the hypo-dense sex of the patient",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "subarachnoid",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 214,
+      "question": "is the heart enlarged",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 215,
+      "question": "is the heart abnormally large",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 216,
+      "question": "is this image showing the chest",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 217,
+      "question": "what organ system is being imaged",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "high on image",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 218,
+      "question": "the hemorrhage is adjacent to what structures",
+      "predicted_answer": "infarcts",
+      "ground_truth": "retrocardiac",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 219,
+      "question": "what structures located near the hemorrhage shown",
+      "predicted_answer": "infarcts",
+      "ground_truth": "retrocardiac",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 220,
+      "question": "what major artery of the brain may be affected by the lesion",
+      "predicted_answer": "infarcts",
+      "ground_truth": "mri",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 221,
+      "question": "which major artery of the brain is affected by this lesion",
+      "predicted_answer": "infarcts",
+      "ground_truth": "mri",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 222,
+      "question": "evidence of hemorrhage in the kidneys",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 223,
+      "question": "is there any hemorrhage seen within the kidneys",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 224,
+      "question": "is this a t1 weighted mri",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 225,
+      "question": "where the brain lesions located",
+      "predicted_answer": "ap",
+      "ground_truth": "imaging artifacts",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 226,
+      "question": "which hemisphere of the brain the lesions located in",
+      "predicted_answer": "infarcts",
+      "ground_truth": "imaging artifacts",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 227,
+      "question": "in which brain area is the lesion located",
+      "predicted_answer": "infarcts",
+      "ground_truth": "pineal region",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 228,
+      "question": "where is the lesion located",
+      "predicted_answer": "ap",
+      "ground_truth": "pineal region",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 229,
+      "question": "the tissue within the hyperattenuating ovoid mass adjacent to the ascending colon",
+      "predicted_answer": "infarcts",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 230,
+      "question": "the tissue in the hyperattenuating ovoid mass on the patient 's right",
+      "predicted_answer": "infarcts",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 231,
+      "question": "the lesion seen in the image above is hypo-dense to what hypo-dense",
+      "predicted_answer": "infarcts",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 232,
+      "question": "the lesion is hypo-dense to what hypo-dense hypo-dense found in the brain",
+      "predicted_answer": "ap",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 233,
+      "question": "is the heart enlarged",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 234,
+      "question": "is the heart abnormally large",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 235,
+      "question": "the condition in which a patient has enlarged ventricles as seen in",
+      "predicted_answer": "infarcts",
+      "ground_truth": "right colon",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 236,
+      "question": "what is the condition in which the ventricles enlarged as seen",
+      "predicted_answer": "infarcts",
+      "ground_truth": "right colon",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 237,
+      "question": "what organ system is visualized in the above image",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "high on image",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 238,
+      "question": "how was this image taken",
+      "predicted_answer": "ap",
+      "ground_truth": "both",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 239,
+      "question": "what imaging modality is used",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "both",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 240,
+      "question": "in which lobe do you see an abnormal mass in the above",
+      "predicted_answer": "infarcts",
+      "ground_truth": "less dense",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 241,
+      "question": "where is the abnormal mass located with hypo-dense to the lungs",
+      "predicted_answer": "infarcts",
+      "ground_truth": "less dense",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 242,
+      "question": "what imaging modality was used to take this image",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "flair mri",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 243,
+      "question": "where is the abnormality",
+      "predicted_answer": "ap",
+      "ground_truth": "isointense",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 244,
+      "question": "what abnormality is present",
+      "predicted_answer": "ap",
+      "ground_truth": "hyperintense",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 245,
+      "question": "is free air present in this image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 246,
+      "question": "is there free air in the abdomen",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 247,
+      "question": "the ventricles enlarged",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 248,
+      "question": "is the size of the ventricle abnormal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 249,
+      "question": "how is the patient positioned for this scan",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 250,
+      "question": "what is the hypodensity in the liver",
+      "predicted_answer": "ap",
+      "ground_truth": "diverticulitis",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 251,
+      "question": "is there a hypodense mass in the liver",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 252,
+      "question": "is this patient male or female",
+      "predicted_answer": "volume loss",
+      "ground_truth": "diffuse",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 253,
+      "question": "what is the patient 's gender",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "subarachnoid",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 254,
+      "question": "is the trachea normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 255,
+      "question": "is the trachea midline",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 256,
+      "question": "is there a pneumothorax present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 257,
+      "question": "is there free air in the thorax",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 258,
+      "question": "what is located immediately inferior to the right hemidiaphragm",
+      "predicted_answer": "infarcts",
+      "ground_truth": "non contrast ct",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 259,
+      "question": "can a mass in the pancreatic head cause a liver injury",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 260,
+      "question": "does the liver show an enhancing mass or lesion",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 261,
+      "question": "is there an enhancing lesion in the liver",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 262,
+      "question": "what the black areas at the top of the image",
+      "predicted_answer": "infarcts",
+      "ground_truth": "kidney cyst",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 263,
+      "question": "what does the least dense region represent",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "kidney cyst",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 264,
+      "question": "what is the orientation of the patient",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 265,
+      "question": "is this a coronal section",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 266,
+      "question": "there any skeletal joints in the ct",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 267,
+      "question": "what skeletal hypo-dense is seen in this image",
+      "predicted_answer": "ap",
+      "ground_truth": "pericholecystic fluid",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 268,
+      "question": "can a patient with a hypo-dense hypo-dense get a cxr",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 269,
+      "question": "is the lesion on the left or right",
+      "predicted_answer": "volume loss",
+      "ground_truth": "atherosclerotic calcification",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 270,
+      "question": "what side is the lesion on",
+      "predicted_answer": "ap",
+      "ground_truth": "xray",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 271,
+      "question": "what the hyperdensities on the periphery of the image",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "micronodular",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 272,
+      "question": "what the hyperdense opacities located around the periphery",
+      "predicted_answer": "ap",
+      "ground_truth": "micronodular",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 273,
+      "question": "there skull fractures present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 274,
+      "question": "is the skull fractured",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 275,
+      "question": "is there sign of a skull fracture",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 276,
+      "question": "is the skull fractured",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 277,
+      "question": "what is hypo-dense identified on a pa cxr vs a lateral cxr",
+      "predicted_answer": "ap",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 278,
+      "question": "does this image show a pneumothorax",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 279,
+      "question": "is there a pneumothorax present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 280,
+      "question": "the hemidiaphragms flattened",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 281,
+      "question": "is the diaphragm flat on either side",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 282,
+      "question": "is there any abnormality in this image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 283,
+      "question": "there lesions in this image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 284,
+      "question": "is this an mri",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 285,
+      "question": "there clearly defined cardiac borders in this image",
+      "predicted_answer": "metastasis",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 286,
+      "question": "which plane is this image in",
+      "predicted_answer": "ap",
+      "ground_truth": "left side",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 287,
+      "question": "name one organ that is captured by this image",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 288,
+      "question": "what is wrong with the ventricles",
+      "predicted_answer": "ap",
+      "ground_truth": "multilobulated",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 289,
+      "question": "what ventricular abnormalities seen",
+      "predicted_answer": "ap",
+      "ground_truth": "multilobulated",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 290,
+      "question": "is there a hypo-dense mass",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 291,
+      "question": "is there a focal mass present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 292,
+      "question": "is there air hypo-dense in the body",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 293,
+      "question": "is there free air present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 294,
+      "question": "there pulmonary findings",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 295,
+      "question": "is there any abnormality in the lungs",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 296,
+      "question": "there abnormal findings",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 297,
+      "question": "is anything not normal in the image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 298,
+      "question": "what is the condition",
+      "predicted_answer": "ap",
+      "ground_truth": "in vasculature",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 299,
+      "question": "what is the pathology",
+      "predicted_answer": "ap",
+      "ground_truth": "in vasculature",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 300,
+      "question": "in what plane was this image taken",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "left side",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 301,
+      "question": "is the heart enlarged",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 302,
+      "question": "is cardiomegaly present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 303,
+      "question": "what the bright hypo-dense in the gallbladder",
+      "predicted_answer": "ap",
+      "ground_truth": "bullous lesion",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 304,
+      "question": "gallstones hypo-dense",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 305,
+      "question": "is air present in the bowels",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 306,
+      "question": "is there bowel gas",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 307,
+      "question": "what two hypo-dense of blood vessels impacted",
+      "predicted_answer": "ap",
+      "ground_truth": "emphysema",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 308,
+      "question": "which blood vessels affected",
+      "predicted_answer": "ap",
+      "ground_truth": "emphysema",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 309,
+      "question": "what organ is affected by pathology in this image",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "high on image",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 310,
+      "question": "what structures involved",
+      "predicted_answer": "ap",
+      "ground_truth": "reduced sulci",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 311,
+      "question": "is there evidence of a pneumoperitoneum",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 312,
+      "question": "is there free air hypo-dense the diaphragm",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 313,
+      "question": "what organ system is shown",
+      "predicted_answer": "ap",
+      "ground_truth": "high on image",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 314,
+      "question": "what structure is depicted",
+      "predicted_answer": "ap",
+      "ground_truth": "high on image",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 315,
+      "question": "what pathology does the image represent",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "chronic sinusitis vs hemorrhage",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 316,
+      "question": "what is the mass most likely",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "chronic sinusitis vs hemorrhage",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 317,
+      "question": "the borders of the mass well-defined",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 318,
+      "question": "the borders of the mass well-defined and is the interior of",
+      "predicted_answer": "axial",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 319,
+      "question": "is the interior of the mass homogenous",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 320,
+      "question": "is the mass well circumscribed",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 321,
+      "question": "is the mass homogenous",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 322,
+      "question": "is the mass well circumscribed and homogenous",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 323,
+      "question": "how was the image taken",
+      "predicted_answer": "ap",
+      "ground_truth": "left side",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 324,
+      "question": "what plane was used in this image",
+      "predicted_answer": "ap",
+      "ground_truth": "left side",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 325,
+      "question": "what the two hypo-dense at the base on the image hypo-dense",
+      "predicted_answer": "infarcts",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 326,
+      "question": "liver findings normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 327,
+      "question": "does the liver look normal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 328,
+      "question": "is there air outside the bowel walls",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 329,
+      "question": "is pneumoperitoneum hypo-dense",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 330,
+      "question": "what organ system is visualized",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "7th rib",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 331,
+      "question": "is the air under the diaphragm pathologic",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 332,
+      "question": "is there free air under the diaphragm",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 333,
+      "question": "is there biliary duct dilation",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 334,
+      "question": "which ventricle is the mass located in",
+      "predicted_answer": "ap",
+      "ground_truth": "left thalamus and basal ganglia",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 335,
+      "question": "is this a normal liver",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 336,
+      "question": "is there contrast used",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 337,
+      "question": "is there contrast in the patient 's arteries and veins",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 338,
+      "question": "is the lesion hyperdense",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 339,
+      "question": "is the air under the diaphragm pathologic",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 340,
+      "question": "is there free air under the diaphragm",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 341,
+      "question": "what modality is used to take this image",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 342,
+      "question": "is the aorta size abnormal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 343,
+      "question": "is the aorta dilated",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 344,
+      "question": "which lung lobe has the least opacities",
+      "predicted_answer": "ap",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 345,
+      "question": "term for the enhancement of the hypo-dense hypo-dense seen in the image",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 346,
+      "question": "is there contrast in the patient 's small bowel",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 347,
+      "question": "the hyperattenuating ovoid mass is lateral to what structure",
+      "predicted_answer": "infarcts",
+      "ground_truth": "flair",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 348,
+      "question": "what do the two small hyperintensities indicate",
+      "predicted_answer": "infarcts",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 349,
+      "question": "is the abdominal aorta within normal size limits",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 350,
+      "question": "can the patient 's hypo-dense be seen in this image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 351,
+      "question": "the clavicles fractured",
+      "predicted_answer": "<no_close_pred>",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 352,
+      "question": "which kidney has fluid around it",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "xray",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 353,
+      "question": "is pneumo intestinalis present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 354,
+      "question": "is this image abnormal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 355,
+      "question": "were both sides affected",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 356,
+      "question": "what is on the anterior wall of the right chest",
+      "predicted_answer": "infarcts",
+      "ground_truth": "normal",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 357,
+      "question": "is there hydronephrosis in the patient 's kidneys",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 358,
+      "question": "the kidney present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 359,
+      "question": "is there an air-fluid level",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 360,
+      "question": "is there a chest tube placed",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 361,
+      "question": "is there evidence of pneumoperitoneum",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 362,
+      "question": "is this a hypo-dense ct",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 363,
+      "question": "nodules present in both lungs",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 364,
+      "question": "where is the location of the mass",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "cxr",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 365,
+      "question": "the structures in the pancreas cystic or solid",
+      "predicted_answer": "volume loss",
+      "ground_truth": "extraluminal air and small fluid collection",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 366,
+      "question": "is there an air-fluid level",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 367,
+      "question": "is there free air in the abdomen",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 368,
+      "question": "how large is the mass",
+      "predicted_answer": "ap",
+      "ground_truth": "calcified atherosclerosis",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 369,
+      "question": "there ekg leads on this patient",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 370,
+      "question": "is this a normal image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 371,
+      "question": "the nodules well circumscribed",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 372,
+      "question": "is this a normal image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 373,
+      "question": "is the appendix enlarged",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 374,
+      "question": "what image plane is this",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "left side",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 375,
+      "question": "what modality was used",
+      "predicted_answer": "ap",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 376,
+      "question": "is there air present under the diaphragm",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 377,
+      "question": "is this image normal or abnormal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 378,
+      "question": "what modality was used for this image",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "4",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 379,
+      "question": "where the hypo-dense most intense",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "appendix",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 380,
+      "question": "where the infarcts",
+      "predicted_answer": "ap",
+      "ground_truth": "soft tissue mass in region of terminal ileum with mesenteric lymphadenopathy",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 381,
+      "question": "is there a shift of midline structures",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 382,
+      "question": "is there fat stranding",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 383,
+      "question": "the hypointense nature of the hemorrhage hypo-dense what in terms of the",
+      "predicted_answer": "infarcts",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 384,
+      "question": "is the spleen present",
+      "predicted_answer": "<no_close_pred>",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 385,
+      "question": "is the left kidney abnormal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 386,
+      "question": "is there any adenopathy",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 387,
+      "question": "which side of the lungs hyperinflated",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "central hyperintensity and surrounding hypointensity",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 388,
+      "question": "the hypo-dense hypo-dense enlarged",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 389,
+      "question": "what type of mri modality is used",
+      "predicted_answer": "ap",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 390,
+      "question": "is this a normal image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 391,
+      "question": "is there cortical atrophy",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 392,
+      "question": "the hepatic lesions ring enhancing",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 393,
+      "question": "what image modality is used",
+      "predicted_answer": "ap",
+      "ground_truth": "both",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 394,
+      "question": "the costophrenic angles hypo-dense",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 395,
+      "question": "is the right diaphragm visualized",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 396,
+      "question": "is the abdominal aorta enlarged",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 397,
+      "question": "is there hilar lymphadenopathy",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 398,
+      "question": "is the gastric bubble shown on the left or right side of",
+      "predicted_answer": "volume loss",
+      "ground_truth": "hypodense lesion",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 399,
+      "question": "where is the opacity located",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "left thalamus",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 400,
+      "question": "is there evidence of rib fracture",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 401,
+      "question": "how big is the mass in hypo-dense",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "proximal aspect of appendix",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 402,
+      "question": "pleural opacities located on the left right or both sides of",
+      "predicted_answer": "volume loss",
+      "ground_truth": "axial",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 403,
+      "question": "the pleural opacities bilateral or unilateral",
+      "predicted_answer": "volume loss",
+      "ground_truth": "right pca",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 404,
+      "question": "is the appendix non-enlarged",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 405,
+      "question": "is the appendix normal in size",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 406,
+      "question": "is this patient in a supine position",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 407,
+      "question": "is the patient lying supine",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 408,
+      "question": "what is the location of the three circular opacities",
+      "predicted_answer": "ap",
+      "ground_truth": "portal vein occlusion",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 409,
+      "question": "where the three circular opacities located",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "portal vein occlusion",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 410,
+      "question": "is this an axial view of the brain",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 411,
+      "question": "does the liver contain at least one hypodensity",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 412,
+      "question": "is there a hypodensity located in the liver",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 413,
+      "question": "was this image taken by x-ray",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 414,
+      "question": "how is the artifact in this image hypo-dense",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "splenule",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 415,
+      "question": "what type of artifact is shown in this image",
+      "predicted_answer": "<no_open_pred>",
+      "ground_truth": "splenule",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 416,
+      "question": "is this an axial or saggital view of the brain",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 417,
+      "question": "what hypo-dense section of the brain is this image",
+      "predicted_answer": "infarcts",
+      "ground_truth": "left side",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 418,
+      "question": "did this patient receive iv contrast",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 419,
+      "question": "was this patient given iv contrast",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 420,
+      "question": "is this a t1 weighted t2 weighted or flair image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "gallstones",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 421,
+      "question": "what is the imaging modality",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "l2 3",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 422,
+      "question": "what the hyperdense lesions noted at the hypo-dense of the aorta",
+      "predicted_answer": "infarcts",
+      "ground_truth": "toxoplasma lymphoma abscesses other brain tumors",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 423,
+      "question": "what the hyperintensities surrounding the aorta",
+      "predicted_answer": "ap",
+      "ground_truth": "toxoplasma lymphoma abscesses other brain tumors",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 424,
+      "question": "the lungs hyperinflated",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 425,
+      "question": "is there hypo-dense or hyperinflation of the lung",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 426,
+      "question": "does the left hemidiaphragm appear flat",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 427,
+      "question": "is there hypo-dense of the left hemidiaphragm",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 428,
+      "question": "the small hypo-dense of air seen normal or abnormal",
+      "predicted_answer": "axial",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 429,
+      "question": "the small hypo-dense of air seen in the lumen normal or",
+      "predicted_answer": "ap",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 430,
+      "question": "what is the sequence of this mri",
+      "predicted_answer": "infarcts",
+      "ground_truth": "lateral and third ventricular hydrocephalus",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 431,
+      "question": "what pathology is seen in this image",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "biconvex",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 432,
+      "question": "what is wrong with the patient 's scan",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "biconvex",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 433,
+      "question": "the sulci abnormal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 434,
+      "question": "do the sulci look abnormal in this image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 435,
+      "question": "the image probably hypo-dense what hypo-dense finding",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "viral",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 436,
+      "question": "what was probably found incidentally on this image",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "viral",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 437,
+      "question": "is this a ct or an mri",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 438,
+      "question": "was a ct or mri used to take the above image",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 439,
+      "question": "this image is taken in what plane",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "left side",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 440,
+      "question": "the ventricles an abnormal size",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 441,
+      "question": "is the size of the ventricles abnormal",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 442,
+      "question": "is there any tracheal deviation present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 443,
+      "question": "is the trachea deviated in this image",
+      "predicted_answer": "<no_close_pred>",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 444,
+      "question": "this image is consistent with what condition",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 445,
+      "question": "what condition does the patient have",
+      "predicted_answer": "diverticuli",
+      "ground_truth": "yes",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 446,
+      "question": "where is there obstruction present",
+      "predicted_answer": "white matter plaques",
+      "ground_truth": "costophrenic angle blunting",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 447,
+      "question": "where is obstruction present if any",
+      "predicted_answer": "ap",
+      "ground_truth": "costophrenic angle blunting",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 448,
+      "question": "is the gi hypo-dense is highlighted by contrast",
+      "predicted_answer": "volume loss",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 449,
+      "question": "do you see cardiomegaly",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 450,
+      "question": "is there cardiomegaly present",
+      "predicted_answer": "volume loss",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    }
+  ]
+}

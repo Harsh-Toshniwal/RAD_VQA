@@ -1,0 +1,4057 @@
+{
+  "accuracy": 0.0,
+  "total_samples": 450,
+  "correct": 0,
+  "predictions": [
+    {
+      "question_id": 1,
+      "question": "Are regions of the brain infarcted?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 2,
+      "question": "Are the lungs normal appearing?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 3,
+      "question": "Is there evidence of a pneumothorax",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 5,
+      "question": "Is this a MRI of the chest?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 6,
+      "question": "What is not pictured in this image?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 7,
+      "question": "Is the trachea midline?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 8,
+      "question": "Is there evidence of an aortic aneurysm?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 9,
+      "question": "Where is the abnormality?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 10,
+      "question": "Is there blunting of the costovertebral angles?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 12,
+      "question": "Which organ system is abnormal in this image?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 15,
+      "question": "Where is the pathology in this image?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 16,
+      "question": "Is there a pneumothorax?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 17,
+      "question": "What type of imaging is this?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 18,
+      "question": "What organ system is pictured?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 19,
+      "question": "Is there a fracture?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 21,
+      "question": "Is there swelling of the grey matter?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 23,
+      "question": "Is this an anterior posterior image?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 25,
+      "question": "Is this the brain?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 26,
+      "question": "Is there air under the diaphragm?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 27,
+      "question": "What type of image is this?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 28,
+      "question": "Is this a CT image?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 29,
+      "question": "Is this an anterior-posterior image",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 30,
+      "question": "In what plane is this image oriented?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 31,
+      "question": "Is there a skull fracture pictured?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 33,
+      "question": "Are there >12 of ribs? ",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 35,
+      "question": "Is/Are the lungs normal size?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 37,
+      "question": "Is/Are there a rib fracture?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 39,
+      "question": "Is/Are there fracturing in the patient's ribs?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 41,
+      "question": "Is/Are the lung parenchyma abnormal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 43,
+      "question": "Is/Are the lung parenchyma abnormal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 44,
+      "question": "was the arterial contrast phase selected?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 45,
+      "question": "does this plane of section include the gastric cardia?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 48,
+      "question": "Is/Are there thickening in the patient's small bowel wall?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 50,
+      "question": "was this taken with good x ray penetration",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 51,
+      "question": "Are the common ileac arteries and veins patent in this section?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 52,
+      "question": "Is/Are there patency in the patient's common iliac arteries and veins?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 53,
+      "question": "Are the common iliac vasculature open?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 54,
+      "question": "Is/Are there patency in the patient's common iliac vasculature?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 59,
+      "question": "Are there air fluid levels present in the small bowel?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 62,
+      "question": "Is/Are there air fluid levels in the patient's small bowel?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 64,
+      "question": "Is/Are the mass located near/in the mid brain?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 70,
+      "question": "Is/Are there midline shift?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 71,
+      "question": "is there a midline shift of the cerebral parenchyma?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 73,
+      "question": "Is the gallbladder large in size?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 4,
+      "question": "What type of imaging does this not represent?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 55,
+      "question": "Is the spleen normal size?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "pulmonary nodules",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 56,
+      "question": "Is/Are the spleen normal size?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "pulmonary nodules",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 57,
+      "question": "Is the size of the spleen normal?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "free air",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 58,
+      "question": "Is/Are the spleen normal size?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "free air",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 60,
+      "question": "Is/Are there air fluid levels in the patient's small bowel?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "hypodense lesion",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 61,
+      "question": "is there contrast material showing air-fluid levels in the small bowel",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "hypodense lesion",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 63,
+      "question": "Is/Are the mass located near/in the mid brain?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "pa",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 65,
+      "question": "Is the mass compressing the mid brain on this section?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "1",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 66,
+      "question": "Is there mass compression in the patient's midbrain?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "enlarged",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 67,
+      "question": "Is the mass pushing on the midbrain structures?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "enlarged",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 68,
+      "question": "Is there mass compression in the patient's midbrain?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "nodular opacities",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 69,
+      "question": "Are brain structures shifted across the midline?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "nodular opacities",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 72,
+      "question": "Is/Are there midline shift?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ring enhancing lesions",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 74,
+      "question": "Is/Are the gallbladder large?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right temporal lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 75,
+      "question": "Is the gallbladder distended?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right temporal lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 76,
+      "question": "Is/Are the gallbladder distended?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "middle mogul",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 77,
+      "question": "Are there >8 ribs shown in this image?",
+      "predicted_answer": "contrast",
+      "ground_truth": "middle mogul",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 78,
+      "question": "Are there >8 of the ribs?",
+      "predicted_answer": "flair",
+      "ground_truth": "middle mogul",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 79,
+      "question": "Are there at least 8 ribs visible for good inspiratory effort?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right lung",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 81,
+      "question": "is this an image of the cerebellum",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 82,
+      "question": "Is this a transverse section?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 83,
+      "question": "Is the patient's vertebral body indicative of normal aging?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 84,
+      "question": "any observed degenerative changes in the vertebral body?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 85,
+      "question": "Is/Are there degeneration in the patient's vertebral body?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 89,
+      "question": "Is there evidence of herniation of the small bowel into the abdominal wall?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 90,
+      "question": "Is/Are there herniation in the patient's small bowel through the abdominal wall?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 91,
+      "question": "Is there evidence of an abdominal hernia?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 92,
+      "question": "Is/Are there herniation in the patient's small bowel through the abdominal wall?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 93,
+      "question": "Are there air-fluid levels present on this CT radiograph?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 94,
+      "question": "Is/Are there air fluid levels in the patient's bowel?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 96,
+      "question": "Is/Are there air fluid levels in the patient's bowel?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 99,
+      "question": "Is there evidence of midlight shift of structures on this MRI?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 100,
+      "question": "Is/Are there midline shift?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 101,
+      "question": "was this taken in PA position?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 103,
+      "question": "Is/Are there air in the patient's peritoneum?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 104,
+      "question": "Is there air in the peritoneal cavity?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 105,
+      "question": "Is/Are there air in the patient's peritoneal cavity?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 108,
+      "question": "Are the soft tissue densities in the left hilum equivalent in size to the soft tissue densities in the right hilum?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 111,
+      "question": "Is the descending aortic silhouette of normal contour and size?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 113,
+      "question": "Is/Are there tortuosity in the patient's aorta?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 114,
+      "question": "Is the descending aortic silhouette of normal size?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 116,
+      "question": "Is the descending aortic silhouette of normal size?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 120,
+      "question": "Is/Are there vertebral arteries?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 122,
+      "question": "Is/Are there hyper attenuating material in the patient's aorta?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "left",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 125,
+      "question": "Is the vertebro-basilar arterial network viewed in this section?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 126,
+      "question": "Is/Are there vertebral/basilar artery?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 127,
+      "question": "Is the vertebral artery/basilar artery located in this image?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 130,
+      "question": "Is/Are there blurring of the grey-white matter in the patient's right temporal lobe?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 131,
+      "question": "Is there no definitive border between the grey matter and white matter in the right temporal lobe?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 134,
+      "question": "Is/Are there portal venous congestion?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 135,
+      "question": "Is the portal vein engorged?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 137,
+      "question": "is the plane of section transverse?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 139,
+      "question": "Is/Are the liver parenchyma normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 141,
+      "question": "Is/Are the liver parenchyma homogenous??",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 142,
+      "question": "Is there no evidence of any hypo- or hyperattenuations located in the liver?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 145,
+      "question": "was this chest x ray taken in PA format?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 146,
+      "question": "Is the stomach thickening regular and uniform or ragged/asymmetrical?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 147,
+      "question": "How would you describe the stomach wall thickening?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 80,
+      "question": "Are there at least 8 of the ribs?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "right lung",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 88,
+      "question": "Is/Are there obstruction in the patient's small bowel?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "xray",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 95,
+      "question": "Is there evidence of air fluid levels in the patient's bowel?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "1",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 97,
+      "question": "Have brain structures crossed the midline of the brain?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "left",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 98,
+      "question": "Is/Are there midline shift?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "left",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 102,
+      "question": "Is there evidence of air in the peritoneum?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "it is less than half width of thorax",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 106,
+      "question": "Are the hilar soft tissue densities symmetric?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 107,
+      "question": "Is/Are there symmetry in the patient's hilums?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "above clavicles bilaterally",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 109,
+      "question": "Is/Are there equivalent size tissues densities in the patient's hilums?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "posterior to appendix",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 110,
+      "question": "Is the descending aortic silhouette of normal contour?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 112,
+      "question": "Is there tortuosity of the descending aorta?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "on right shoulder",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 115,
+      "question": "Is/Are there tortuosity in the patient's aorta?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "bullous lesion",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 117,
+      "question": "are the vertebral arteries patent in this section?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "anterior mediastinum",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 118,
+      "question": "Are the vertebral arteries patent?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 119,
+      "question": "Are the vertebral arteries in view?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "not seen here",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 124,
+      "question": "Is/Are there calcifications in the patient's aorta?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "left",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 128,
+      "question": "Is/Are there vertebral/basilar artery?",
+      "predicted_answer": "contrast",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 129,
+      "question": "Is there blurring of the grey-white matter junctions in the right temporal lobe?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 132,
+      "question": "Is/Are there blurring of the grey-white matter in the patient's right temporal lobe?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "plain film xray",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 133,
+      "question": "is there evidence of portal venous congestion?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 136,
+      "question": "Is/Are there portal venous congestion?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 138,
+      "question": "Is the liver parenchyma normal?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "axial",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 140,
+      "question": "Is the liver parenchyma homogenous?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 143,
+      "question": "Is/Are the liver parenchyma homogenous??",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "lateral ventricles",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 144,
+      "question": "Is the liver parenchyma homogenous and normal?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "lateral ventricles",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 148,
+      "question": "Is the stomach wall thickening symmetric or asymmetric?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 149,
+      "question": "How would you describe the stomach wall thickening?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 150,
+      "question": "Is there evidence of ectopic tissue present in surrounding organs?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 151,
+      "question": "Is there metastatic tissue in the surrounding organs?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 152,
+      "question": "Is there evidence of metastatic tissue on organs surrounding the liver?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 153,
+      "question": "Is there metastatic tissue in the liver?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 156,
+      "question": "is there evidence of intraparenchymal lung nodules?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 157,
+      "question": "Is/Are there nodules in the patient's lung?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 159,
+      "question": "Is/Are there air in the patient's peritoneal cavity?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 161,
+      "question": "Is/Are there air in the patient's peritoneal cavity?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 163,
+      "question": "Is/Are the heart size normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 165,
+      "question": "Is/Are the heart size normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 168,
+      "question": "Is there evidence of calcifications in the cerebral arteries?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 169,
+      "question": "Is/Are there calcifications in the patient's cerebral arteries?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 170,
+      "question": "Is there evidence of a right apical pneumothorax on this chest x-ray?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 171,
+      "question": "Is/Are there a pneumothorax in the patient's right lung?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 172,
+      "question": "Is a pneumothorax present near the right lung field?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 173,
+      "question": "Is/Are there a pneumothorax in the patient's right lung?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 174,
+      "question": "Are the branches of the superior mesenteric arteries filled with contrast?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 175,
+      "question": "Is/Are the superior mesenteric arteries hyperatenuated?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 176,
+      "question": "Are the branches of the superior mesenteric arteries hyper attenuated?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 177,
+      "question": "Is/Are the superior mesenteric arteries hyperatenuated?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 181,
+      "question": "Is/Are the heart narrowed?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 182,
+      "question": "Are there any fractures in any of the ribs?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 187,
+      "question": "Is there pulmonary edema",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 189,
+      "question": "Is/Are the pulmonary vessels enlarged?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 192,
+      "question": "Is there evidence of ascites?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 193,
+      "question": "Is/Are there ascites?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 203,
+      "question": "Is there stool in the colon?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 204,
+      "question": "Is/Are there stool in the patient's colon?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 206,
+      "question": "Is/Are there middle cerebral arteries?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 207,
+      "question": "Is the left and right MCA present?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 210,
+      "question": "Is the lesion causing significant brainstem herniation?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 212,
+      "question": "Is there herniation of the brainstem secondary to the lesion",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 213,
+      "question": "Is/Are there herniation in the patient's brainstem?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 218,
+      "question": "Are structures associated with the midbrain located in this image?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 219,
+      "question": "Is/Are there midbrain structures?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 220,
+      "question": "Is the midbrain identified in this section?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "left",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 154,
+      "question": "Are lung opacities noted?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "fat",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 155,
+      "question": "Is/Are there nodules in the patient's lung?",
+      "predicted_answer": "contrast",
+      "ground_truth": "fat",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 166,
+      "question": "Are there calcifications in the cerebral arteries?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 167,
+      "question": "Is/Are there calcifications in the patient's cerebral arteries?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 179,
+      "question": "Is/Are the heart narrowed?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 183,
+      "question": "Is/Are there fractures in the patient's ribs?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "cardiomegaly with pulmonary edema",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 184,
+      "question": "Are any of the patient's ribs fractured?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "cardiomegaly with pulmonary edema",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 185,
+      "question": "Is/Are there fractures in the patient's ribs?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 190,
+      "question": "Is there evidence of fluid in the peritoneal cavity?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right upper lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 191,
+      "question": "Is/Are there ascites?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right upper lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 194,
+      "question": "Has the small bowel perforated?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "coronal",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 195,
+      "question": "Is/Are there perforation in the patient's small bowel?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "head of pancreas",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 196,
+      "question": "is there evidence of pneumoperitoneum?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "head of pancreas",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 197,
+      "question": "Is this the small bowel on this image?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 199,
+      "question": "Is/Are the cardiac contour normal?",
+      "predicted_answer": "metastasis",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 201,
+      "question": "Are feces located in the colon?",
+      "predicted_answer": "metastasis",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 202,
+      "question": "Is/Are there stool in the patient's colon?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right frontal lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 205,
+      "question": "Do the left and right middle cerebral arteries appear patent on this section?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 208,
+      "question": "Is/Are there middle cerebral arteries?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 209,
+      "question": "Is this a T2 weighted image?",
+      "predicted_answer": "flair",
+      "ground_truth": "abdomen",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 211,
+      "question": "Is/Are there herniation in the patient's brainstem?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 214,
+      "question": "is it difficult to delineate the left costophrenic angle?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 215,
+      "question": "Is/Are there blunting in the patient's left costophrenic angle?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 216,
+      "question": "Is there blunting of the left costophrenic angle?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ivc",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 217,
+      "question": "Is/Are there blunting in the patient's left costophrenic angle?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ivc",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 221,
+      "question": "Is/Are there midbrain structures?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "left",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 227,
+      "question": "Are there >5 of lymph nodes near the stomach?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 228,
+      "question": "Are there >5 lymph nodes located near the stomach?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 229,
+      "question": "Are there >5 of lymph nodes near the stomach?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 232,
+      "question": "Is the gallbladder enlarged?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 233,
+      "question": "Is/Are the gallbladder enlarged?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 234,
+      "question": "Is this image plane taken inferior to the liver?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 236,
+      "question": "Is/Are there midline shift?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 246,
+      "question": "Is there pneumonperitoneum in the small bowel?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "female",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 248,
+      "question": "Is/Are there cytotoxic edema in the patient's right temporal lobe?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 249,
+      "question": "Is there evidence of cytotoxic edema in the right temporal lobe?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 250,
+      "question": "Is/Are there cytotoxic edema in the patient's right temporal lobe?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 256,
+      "question": "Is/Are there contrast in the patient's colon?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 257,
+      "question": "Was the patient given oral contrast?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 258,
+      "question": "Is/Are there contrast in the patient's colon?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 267,
+      "question": "Is the celiac trunk open?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 268,
+      "question": "Is/Are there patency in the patient's celiac trunk?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 283,
+      "question": "Is/Are there contrast in the patient's small bowel?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 284,
+      "question": "Is there enlargement of the abdominal aorta on this image?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 285,
+      "question": "Is/Are the abdominal aorta large?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 286,
+      "question": "Is the abdominal aorta large in size?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 289,
+      "question": "Is/Are there no blunting in the patient's costophrenic angles?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 290,
+      "question": "Is there no evidence of blunting of the costophrenic angles?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "female",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 292,
+      "question": "is the lung parenchyma well visualized?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 293,
+      "question": "Has the brainstem herniated?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 223,
+      "question": "Is/Are there pneumothorax in the patient's left lung field?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "axial",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 225,
+      "question": "Is/Are there pneumothorax in the patient's left lung field?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right side",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 226,
+      "question": "Are there more than 5 enlarged (>1 cm) lymph nodes around the stomach",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right side",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 230,
+      "question": "Does the gallbladder appear distended?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "r frontal lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 231,
+      "question": "Is/Are the gallbladder enlarged?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "r frontal lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 235,
+      "question": "is there any shift of midline structures visible in this section?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 237,
+      "question": "Is there shifting of structures across the middle?",
+      "predicted_answer": "flair",
+      "ground_truth": "mri t2 weighted",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 238,
+      "question": "Is/Are there midline shift?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "axial",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 240,
+      "question": "Is/Are the right renal pelvis enlarged?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "axial",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 242,
+      "question": "Is/Are the right renal pelvis enlarged?",
+      "predicted_answer": "contrast",
+      "ground_truth": "right lower lateral lung field",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 243,
+      "question": "Is there evidence of a small bowel obstruction with perforated viscus on this CT?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right lower lateral lung field",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 244,
+      "question": "Is there pneumonperitoneum in the small bowel?",
+      "predicted_answer": "metastasis",
+      "ground_truth": "3.4 cm",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 245,
+      "question": "Is there evidence of a pneumoperitoneum secondary to a perforation?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "3.4 cm",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 247,
+      "question": "Is there edema in the patient's right temporal lobe?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "female",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 251,
+      "question": "Does the mass have a smooth appearing border?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "brain",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 252,
+      "question": "Is/Are the mass well-defined? -yes/no",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "left thalamus and basal ganglia",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 253,
+      "question": "Is the mass well-defined?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "left thalamus and basal ganglia",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 254,
+      "question": "Is/Are the mass well-defined? -yes/no",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "basilar artery",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 255,
+      "question": "Is there contrast in the colonic lumen?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "basilar artery",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 259,
+      "question": "Is the celiac trunk visualized and patent?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right hemisphere",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 260,
+      "question": "Is the celiac trunk visualized?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "right hemisphere",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 261,
+      "question": "Is/Are there visualization in the patient's celiac trunk?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "right cerebellopontine angle",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 262,
+      "question": "Is the celiac trunk patent?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right cerebellopontine angle",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 263,
+      "question": "Is/Are there patency in the patient's celiac trunk?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 264,
+      "question": "Is the celiac trunk able to be visualized in this patient and is it open?",
+      "predicted_answer": "metastasis",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 265,
+      "question": "Is the celiac trunk able to be visualized in this patient?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 266,
+      "question": "Is/Are there visualization in the patient's celiac trunk?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 270,
+      "question": "Is/Are there midline shift?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "hydrocephalus",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 272,
+      "question": "Is/Are there midline shift?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "hydrocephalus",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 273,
+      "question": "was this image taken without motion artifact",
+      "predicted_answer": "metastasis",
+      "ground_truth": "brain",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 274,
+      "question": "was this image taken with patient in symmetrical supine position?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ct",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 276,
+      "question": "Is/Are the left lung radioopaque?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ct",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 278,
+      "question": "Is/Are the left lung radioopaque?",
+      "predicted_answer": "metastasis",
+      "ground_truth": "right upper lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 279,
+      "question": "Is this an image of the right and left temporal lobes?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "right upper lobe",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 280,
+      "question": "Are the liver \tsplee n\tstomac h\tand esophagus all visualized in this image?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "xray",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 281,
+      "question": "Does the GI contrast hi-light the small bowel?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right posteroinferior cerebellum",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 282,
+      "question": "Is there oral contrast in the patient's small bowel?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "bleeding in right posteroinferior cerebellum",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 287,
+      "question": "Is/Are the abdominal aorta large?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 288,
+      "question": "Are the costophrenic angles sharp?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "gallbladder",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 291,
+      "question": "Is/Are there no blunting in the patient's costophrenic angles?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "female",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 294,
+      "question": "Is/Are there herniation in the patient's brainstem?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 295,
+      "question": "is there evidence of brainstem herniation in this section",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 297,
+      "question": "are the heart and lungs displayed well in this film",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 299,
+      "question": "Is this image normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 301,
+      "question": "Is this image normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 309,
+      "question": "What is/are the hypointensity near/in the R hemidiaphragm?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 311,
+      "question": "Any abnormal findings in the lower lung fields?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 313,
+      "question": "Are the lower lung fields normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 314,
+      "question": "Is/Are there abnormalities in the patient's lower lung?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "right",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 318,
+      "question": "Is/Are the mass located? -yes/no",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 320,
+      "question": "How would you describe the abnormality?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 322,
+      "question": "How would you describe the abnormality?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 323,
+      "question": "What organ system is evaluated primarily?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 325,
+      "question": "Is/Are there gallstones?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 326,
+      "question": "Are gallstones present?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 327,
+      "question": "Is/Are there gallstones?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 328,
+      "question": "Is the left hemidiaphragm normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 329,
+      "question": "Is this image normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 330,
+      "question": "Is the left hemidiaphragm normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 331,
+      "question": "Is this image normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 332,
+      "question": "Is this a chest x-ray?",
+      "predicted_answer": "superficial to patient's skin",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 338,
+      "question": "Is this brain scan normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 339,
+      "question": "Is/Are the brain normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 340,
+      "question": "Is the brain tissue ischemic?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 341,
+      "question": "Is there atrophy of the brain?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 342,
+      "question": "How would you describe the abnormality?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 343,
+      "question": "How would you describe the abnormality?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 344,
+      "question": "Is the abnormality focal or diffuse?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 345,
+      "question": "What kind of scan is this?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 349,
+      "question": "Is/Are the pancreatic mass calcified? -yes/no",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 350,
+      "question": "What kind of image is this?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 352,
+      "question": "Is this image normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 353,
+      "question": "Is the brain scan normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 354,
+      "question": "Is this image normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 359,
+      "question": "where is the cavitary lesion?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 360,
+      "question": "Where is/are the cavitary lesion located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 365,
+      "question": "What is/are the density of abnormality?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 366,
+      "question": "What part of the liver is the mass located in?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 367,
+      "question": "Where is/are the mass located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 296,
+      "question": "Is/Are there herniation in the patient's brainstem?",
+      "predicted_answer": "metastasis",
+      "ground_truth": "liver",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 303,
+      "question": "What is/are the abnormalities  near/in the lung?",
+      "predicted_answer": "flair",
+      "ground_truth": "maxillary sinuses",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 305,
+      "question": "What is/are the abnormalities  near/in the lung?",
+      "predicted_answer": "metastasis",
+      "ground_truth": "maxillary sinuses",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 307,
+      "question": "What is/are the hypointensity near/in the R hemidiaphragm?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 312,
+      "question": "Is/Are there abnormalities in the patient's lower lung?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "sacroiliac joint",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 315,
+      "question": "Is the mass loculated?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "right",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 316,
+      "question": "Is/Are the mass located? -yes/no",
+      "predicted_answer": "choroid plexus",
+      "ground_truth": "ribs",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 317,
+      "question": "Is there a loculated pancreatic mass?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "ribs",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 324,
+      "question": "Are there gallstones?",
+      "predicted_answer": "t5",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 333,
+      "question": "How would you describe the lesion?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "axial",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 334,
+      "question": "What are key characteristics of the lesion?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 336,
+      "question": "Are there abnormal findings on this image?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "lateral and third ventricular hydrocephalus",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 337,
+      "question": "Is/Are the brain normal?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "lateral and third ventricular hydrocephalus",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 346,
+      "question": "Is there evidence of calcification in the mass?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "diverticulitis",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 347,
+      "question": "Is/Are the pancreatic mass calcified? -yes/no",
+      "predicted_answer": "with contrast",
+      "ground_truth": "diverticulitis",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 348,
+      "question": "Is the mass calcified?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "axial",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 351,
+      "question": "Is this a normal image?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "gallstones",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 355,
+      "question": "What organ is enlarged?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "left aca and mca",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 356,
+      "question": "Where is/are the abnormality located?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "left aca and mca",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 357,
+      "question": "Which organ has the abnormality?",
+      "predicted_answer": "metastasis",
+      "ground_truth": "brain",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 358,
+      "question": "Where is/are the abnormality located?",
+      "predicted_answer": "contrast",
+      "ground_truth": "caudate putamen left parietal",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 361,
+      "question": "where is the abnormality?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "brain",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 362,
+      "question": "Where is/are the cavitary lesion located?",
+      "predicted_answer": "contrast",
+      "ground_truth": "brain",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 363,
+      "question": "Is the abnormality hyper dense or hypo dense?",
+      "predicted_answer": "contrast",
+      "ground_truth": "kidney cyst",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 364,
+      "question": "What density is the abnormality?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "kidney cyst",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 368,
+      "question": "Where is the mass in the liver?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 369,
+      "question": "Where is/are the mass located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 370,
+      "question": "What organ is primarily evaluated in this image?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 374,
+      "question": "What does the shape of the liver suggest?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 375,
+      "question": "What is the brightness in the abdominal aorta?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 376,
+      "question": "What is/are the hyperintensity near/in the aorta?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 377,
+      "question": "What causes hyper intensity in aorta?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 379,
+      "question": "Is this a lateral film?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 380,
+      "question": "Where in the brain is the lesion?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 381,
+      "question": "Where is/are the mass located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 383,
+      "question": "Where is/are the mass located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 384,
+      "question": "Which organ system is imaged?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 385,
+      "question": "Is there an abnormal lesion?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 386,
+      "question": "Is/Are there a mass?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 387,
+      "question": "Is there a mass?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 388,
+      "question": "Is/Are there a mass?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 390,
+      "question": "What caused the lesion?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 391,
+      "question": "In what plane is this image taken?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 395,
+      "question": "How would you describe the hila?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 397,
+      "question": "What is happening in the right lung?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 398,
+      "question": "What is/are abnormal right lung ?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 399,
+      "question": "What is finding in the right lung?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 400,
+      "question": "What is/are abnormal right lung ?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 404,
+      "question": "What is most alarming about the appendix?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 405,
+      "question": "Is the liver normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 406,
+      "question": "Is/Are the liver normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 408,
+      "question": "Is this image normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 409,
+      "question": "Are the lungs normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 410,
+      "question": "Is/Are the lung normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 411,
+      "question": "Is the chest x-ray normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 412,
+      "question": "Is this image normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 416,
+      "question": "What is/are the abnormalities near/in the lung apices?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 418,
+      "question": "What is/are the abnormalities near/in the lung apices?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "cystic",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 420,
+      "question": "What can cause asymmetrical breasts?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 421,
+      "question": "Why are the breasts asymmetrical?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 422,
+      "question": "Is the mass enhancing?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 426,
+      "question": "Is this image normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 428,
+      "question": "How would you describe the abnormalities?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 430,
+      "question": "Is/Are the lesions ring enhancing ?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 432,
+      "question": "Where is/are the lesion located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 434,
+      "question": "Where is/are the abnormality located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 437,
+      "question": "Where is the mass?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 438,
+      "question": "Where is/are the mass located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 442,
+      "question": "What is/are the abnormalities near/in the right upper quadrant?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 371,
+      "question": "What hemisphere are the lesions located in?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "axial",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 372,
+      "question": "Where are the abnormalities?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "axial",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 373,
+      "question": "What does nodular liver suggest?",
+      "predicted_answer": "flair",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 378,
+      "question": "What is/are the hyperintensity near/in the aorta?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "chest",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 382,
+      "question": "Where is the lesion?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "4th ventricle",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 389,
+      "question": "What does the hypodensity suggest?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 392,
+      "question": "Is this a study of the chest?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 394,
+      "question": "What is abnormal about the hila?",
+      "predicted_answer": "flair",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 396,
+      "question": "Is the hila normal or enlarged?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "ascending colon",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 403,
+      "question": "How many spleen lesions are present/visualized in the image?",
+      "predicted_answer": "contrast",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 407,
+      "question": "Is this a normal image?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "right",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 419,
+      "question": "Where is the mass?",
+      "predicted_answer": "metastasis",
+      "ground_truth": "mediport",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 424,
+      "question": "Is/Are the lung normal?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "anterior mediastinum",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 435,
+      "question": "What organ is the mass in?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "5mm",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 436,
+      "question": "Where is/are the mass located?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "axial",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 439,
+      "question": "What abnormalities are in the right upper quadrant?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 440,
+      "question": "What is/are the abnormalities near/in the right upper quadrant?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "mri",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 441,
+      "question": "What is in the right upper quadrant?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "frontal and occipital",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 444,
+      "question": "Where is/are the abnormality located?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "basal ganglia cerebellum cerebral cortex",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 446,
+      "question": "Where is/are the abnormality located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 447,
+      "question": "Is there a pelvic fracture?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 449,
+      "question": "What is the image suggestive of?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 451,
+      "question": "Describe the lesions in the right kidney?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 452,
+      "question": "How would you describe the lesion?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 453,
+      "question": "What is seen in the right kidney?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 455,
+      "question": "Is/Are there cholescystectomy",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 456,
+      "question": "Has the gallbladder been removed?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 457,
+      "question": "Is/Are there gallbladder removed?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 459,
+      "question": "How would you describe the aortopulmonary window?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 461,
+      "question": "What is/are the characteristic finding near/in the aortopulmonary window?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 464,
+      "question": "Is there evidence of enhancement?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "right side",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 466,
+      "question": "Is the lesion enhancing?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 467,
+      "question": "Is/Are the lesion enhanced? -yes/no",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "both",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 468,
+      "question": "Is there contrast given?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "bilateral",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 469,
+      "question": "Is this a CT scan?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 471,
+      "question": "Where is/are the abnormality located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 473,
+      "question": "Where is/are the abnormality located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 477,
+      "question": "Are there two kidneys? ",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 478,
+      "question": "Are there normal number of kidneys?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 479,
+      "question": "Are there two kidneys? ",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 480,
+      "question": "Where is the mass?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 483,
+      "question": "Where is the hypodensity located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 486,
+      "question": "Is this image normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 488,
+      "question": "Is this image normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 489,
+      "question": "Which hemisphere is the ischemia located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 494,
+      "question": "Is this image normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "flair",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 496,
+      "question": " Is/Are the right hemidiaphragm normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 497,
+      "question": "Is the mass homogeneous?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 498,
+      "question": "Where is the abnormality in this image?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 499,
+      "question": "Where is the catheter tip located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 500,
+      "question": "Where is/are the catheter tip located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 505,
+      "question": "Is/Are there mass effect?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 506,
+      "question": "Is there mass effect?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 509,
+      "question": "Is the small bowel filled with contrast?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 510,
+      "question": "Is the cecum dilated",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 512,
+      "question": "What causes the hyperintensity?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 514,
+      "question": "Is there fat stranding?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 515,
+      "question": "Is the heart abnormal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 516,
+      "question": "Does the heart appear enlarged?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 445,
+      "question": "Which kidney has abnormalities?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "bilateral lungs",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 448,
+      "question": "Is this a study of the brain?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 450,
+      "question": "What is the lesion most likely to be?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ct",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 454,
+      "question": "Did the patient have a cholecystectomy?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "right of midline superior to right hilum",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 463,
+      "question": "What is/are the sign near/in the aortopulmonary window?",
+      "predicted_answer": "with contrast",
+      "ground_truth": "2.5cm x 1.7cm x 1.6cm",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 465,
+      "question": "Is/Are the lesion enhanced? -yes/no",
+      "predicted_answer": "with contrast",
+      "ground_truth": "stomach",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 474,
+      "question": "Describe the appendix",
+      "predicted_answer": "with contrast",
+      "ground_truth": "stomach",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 476,
+      "question": "Are there 2 kidneys?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "motion",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 481,
+      "question": "Where is the abnormality?",
+      "predicted_answer": "contrast",
+      "ground_truth": "motion",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 482,
+      "question": "Where is/are the linear hypodensity located?",
+      "predicted_answer": "metastasis",
+      "ground_truth": "axial",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 484,
+      "question": "Where is/are the linear hypodensity located?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "mr flair",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 490,
+      "question": "Where is/are the abnormality located?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "calcified atherosclerosis",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 491,
+      "question": "Where is the abnormality?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "calcified atherosclerosis",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 492,
+      "question": "Where is/are the abnormality located?",
+      "predicted_answer": "flair",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 501,
+      "question": "Where does the catheter tip extend into?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "t2 weighted",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 502,
+      "question": "Where is/are the catheter tip located?",
+      "predicted_answer": "retrocardiac",
+      "ground_truth": "soft tissue mass in region of terminal ileum with mesenteric lymphadenopathy",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 504,
+      "question": "Does the mass affect neighboring structure?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "soft tissue mass in region of terminal ileum with mesenteric lymphadenopathy",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 507,
+      "question": "Is/Are there mass effect?",
+      "predicted_answer": "contrast",
+      "ground_truth": "cavum vergae",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 508,
+      "question": "Is this image normal?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "cavum vergae",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 511,
+      "question": "What does the abnormality suggest?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "axial",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 517,
+      "question": "Is/Are the heart enlarged? -yes/no",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 518,
+      "question": "Where is the mass?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "ultrasound",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 519,
+      "question": "Where is/are the mass located?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "proximal aspect of appendix",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 520,
+      "question": "Where is the mass located?",
+      "predicted_answer": "epidural hematoma",
+      "ground_truth": "proximal aspect of appendix",
+      "question_type_pred": "OPEN",
+      "question_type_gt": "OPEN",
+      "correct": false
+    },
+    {
+      "question_id": 521,
+      "question": "Where is/are the mass located?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "yes",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 523,
+      "question": "Is/Are the pancreas surrounding normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    },
+    {
+      "question_id": 525,
+      "question": "Is/Are the pancreas surrounding normal?",
+      "predicted_answer": "radiolucent",
+      "ground_truth": "no",
+      "question_type_pred": "CLOSED",
+      "question_type_gt": "CLOSED",
+      "correct": false
+    }
+  ]
+}

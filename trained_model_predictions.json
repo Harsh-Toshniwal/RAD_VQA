@@ -1,0 +1,2708 @@
+[
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018426377326250076,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.018383217975497246,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018400391563773155,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024307493586093187,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018424762412905693,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018382545560598373,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018408697098493576,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018429692834615707,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01839161105453968,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018368909135460854,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018379470333456993,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018361378461122513,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018385199829936028,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018395572900772095,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01836906187236309,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01837163046002388,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.01842157170176506,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018454963341355324,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018423039466142654,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01837262324988842,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018433624878525734,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01835940219461918,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018343213945627213,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01837576925754547,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018359271809458733,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018414005637168884,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018384099006652832,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018358970060944557,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018365217372775078,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.018374012783169746,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01840878650546074,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018440401181578636,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018413543701171875,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018376776948571205,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018399326130747795,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018374281004071236,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.01835179701447487,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018374139443039894,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018390189856290817,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002427853411063552,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024317060597240925,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024361046962440014,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002432585461065173,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01841467246413231,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024258822668343782,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024312392342835665,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018412528559565544,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002437777817249298,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01836852729320526,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002435588976368308,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024329014122486115,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024314140900969505,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002430540509521961,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024337242357432842,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018375052139163017,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018370026722550392,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002427611965686083,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018367700278759003,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002438191557303071,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002433265559375286,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002427112078294158,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024264261592179537,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002435821108520031,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024311633314937353,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024311270099133253,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018387597054243088,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01839379593729973,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01837160252034664,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018396908417344093,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018373161554336548,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024354991037398577,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018385475501418114,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01838373765349388,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018400562927126884,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.01833602786064148,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018390625715255737,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01841796189546585,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024358255323022604,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01837245002388954,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002430165885016322,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024304131511598825,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018396204337477684,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018381908535957336,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01836179941892624,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024352215696126223,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01844010129570961,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018414217978715897,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018383467569947243,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024355582427233458,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024364320561289787,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018406908959150314,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024387503508478403,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002436433918774128,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01838659681379795,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024307072162628174,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018428955227136612,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018429161980748177,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002437074203044176,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.01837931014597416,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024379556998610497,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002442500088363886,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002434462308883667,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01843520626425743,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018347149714827538,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002443841425701976,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018370190635323524,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018428446725010872,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018403176218271255,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002436383394524455,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024328979197889566,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018377533182501793,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018406424671411514,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002433682093396783,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002432501409202814,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01836458593606949,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018382329493761063,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024288531858474016,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01842154562473297,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024408421013504267,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018372660502791405,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024344143457710743,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018409909680485725,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01839911751449108,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024239509366452694,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024360090028494596,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018440838903188705,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.0183773972094059,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018366137519478798,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018394535407423973,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018351787701249123,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018374135717749596,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01842845417559147,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.01835968904197216,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.018350832164287567,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024413815699517727,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024418288376182318,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018391575664281845,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018380623310804367,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018368197605013847,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018370723351836205,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018388062715530396,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01836857572197914,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024412753991782665,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024404253344982862,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018403012305498123,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018386417999863625,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.01836482807993889,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018361318856477737,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018359746783971786,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018383048474788666,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018397456035017967,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01840055175125599,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01837410032749176,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018380720168352127,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002432581502944231,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018391359597444534,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01839345321059227,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024304555263370275,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024333572946488857,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024322746321558952,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018412262201309204,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018377333879470825,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002438947791233659,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024379356764256954,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018367892131209373,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01835278980433941,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024296084884554148,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024297989439219236,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024289984721690416,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024417045060545206,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024357005022466183,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "ms plaques",
+    "confidence": 0.002430710941553116,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024491949006915092,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018407417461276054,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018376337364315987,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024364397395402193,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018444916233420372,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01841527782380581,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002431980799883604,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024363454431295395,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.0183823611587286,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024462430737912655,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01838923990726471,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018390722572803497,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024342110846191645,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002435311209410429,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024292694870382547,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002431333065032959,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018382487818598747,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.018372250720858574,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01840118318796158,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024498470593243837,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002431367291137576,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024335822090506554,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024363903794437647,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018395032733678818,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018395017832517624,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018357085064053535,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002430759370326996,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002431349828839302,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018384365364909172,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.01837884448468685,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01839425414800644,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002434949856251478,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01834780164062977,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024317423813045025,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024414784274995327,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002443263540044427,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024396732915192842,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024382295086979866,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024323887191712856,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024278564378619194,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018355920910835266,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024310811422765255,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018354879692196846,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.018379176035523415,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018385957926511765,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024291803129017353,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002437133574858308,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002440456533804536,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002444611629471183,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024446281604468822,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018385419622063637,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018411586061120033,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018382498994469643,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002439061878249049,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002450064290314913,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002447950653731823,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024377363733947277,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024361491668969393,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024346704594790936,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002457055961713195,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024470523931086063,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018355805426836014,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.018377790227532387,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "ms plaques",
+    "confidence": 0.0024388511665165424,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024465052410960197,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002437082352116704,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002432308392599225,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024286683183163404,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "ms plaques",
+    "confidence": 0.0024330441374331713,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002439647214487195,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024274226743727922,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024315123446285725,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024291931185871363,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01842520199716091,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018393734470009804,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018330831080675125,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018368123099207878,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024351656902581453,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002440262818709016,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.0184169989079237,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018352115526795387,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002430148422718048,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01837185211479664,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018380815163254738,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01838807575404644,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01840621419250965,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024353438057005405,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018436679616570473,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018374698236584663,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018407046794891357,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002456521615386009,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002432852052152157,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024344378616660833,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01836080476641655,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018368883058428764,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024382304400205612,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01837662234902382,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.01836596615612507,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002440874930471182,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024472400546073914,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.00243211118504405,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018361257389187813,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.018375441431999207,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018396366387605667,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.018371382728219032,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002440384356305003,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01838287152349949,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018381254747509956,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018378743901848793,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018360789865255356,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018420018255710602,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018393225967884064,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018402544781565666,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018353881314396858,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002438927534967661,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024362916592508554,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.00242945970967412,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002428339095786214,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018391495570540428,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018428055569529533,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01841716095805168,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018405655398964882,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018389269709587097,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01840740442276001,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018383223563432693,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018414760008454323,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024363750126212835,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002433026907965541,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024374478962272406,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018358523026108742,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018377048894762993,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002435848116874695,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018368447199463844,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018402880057692528,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018387233838438988,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024323039688169956,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024303181562572718,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024361603427678347,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002429393120110035,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01838715746998787,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01841631531715393,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002431447384878993,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002428812673315406,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024363400880247355,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002427763771265745,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.0183730386197567,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018345797434449196,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018379829823970795,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018371693789958954,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018384994938969612,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01837969571352005,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024356262292712927,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024365209974348545,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002452604938298464,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018397655338048935,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018385980278253555,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01838919147849083,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018372908234596252,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024299370124936104,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018430788069963455,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01841007173061371,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018404407426714897,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024302564561367035,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018387017771601677,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018391242250800133,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01838727295398712,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01836506277322769,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018431060016155243,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01841120608150959,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024320322554558516,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018377304077148438,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018381008878350258,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002429970307275653,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002448596991598606,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.018364008516073227,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002428947016596794,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.018391449004411697,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.0184102151542902,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018378203734755516,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018370244652032852,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024338788352906704,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01838085427880287,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01837829314172268,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018376337364315987,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002445027232170105,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018393196165561676,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018380237743258476,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018388357013463974,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018375888466835022,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018387220799922943,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.01834842935204506,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018388202413916588,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024315672926604748,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.0183787252753973,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018386494368314743,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01839265413582325,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002426904859021306,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018365804105997086,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018385443836450577,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018351884558796883,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01838299259543419,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018354598432779312,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002436479553580284,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024285968393087387,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018416598439216614,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.0183927770704031,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024348509032279253,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002430628053843975,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024309074506163597,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01839420199394226,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018392812460660934,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002440092386677861,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002431643893942237,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01837010867893696,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018388336524367332,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.00243699480779469,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018365610390901566,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002429290907457471,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01838057115674019,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018395138904452324,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018344208598136902,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024321414530277252,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018376968801021576,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018395422026515007,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018382562324404716,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018380437046289444,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018365925177931786,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002436752198264003,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01835779659450054,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024301959201693535,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01841176487505436,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018400752916932106,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01836336962878704,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018366998061537743,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018410004675388336,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01839567720890045,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.00243423692882061,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002431550994515419,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018429353833198547,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01837886869907379,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018405502662062645,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018389729782938957,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002437601564452052,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024387522134929895,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018423423171043396,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024435066152364016,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018378732725977898,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018368056043982506,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01837652549147606,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024320457596331835,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024436423555016518,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.00243568723089993,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018369855359196663,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018360992893576622,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018383773043751717,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018386738374829292,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01838046871125698,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018391728401184082,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024302760139107704,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024401533883064985,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.002431073458865285,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.018377387896180153,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018396764993667603,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024344809353351593,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024342115502804518,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01840505748987198,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018424883484840393,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024401273112744093,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01836201176047325,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018338695168495178,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "yes",
+    "confidence": 0.01836286298930645,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018385278061032295,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024387710727751255,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024317277129739523,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024291379377245903,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "OPEN",
+    "prediction": "sella and suprasellar cistern",
+    "confidence": 0.0024257958866655827,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018352286890149117,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.01840410940349102,
+    "ground_truth": "UNKNOWN"
+  },
+  {
+    "answer_type": "CLOSED",
+    "prediction": "left",
+    "confidence": 0.018385136500000954,
+    "ground_truth": "UNKNOWN"
+  }
+]

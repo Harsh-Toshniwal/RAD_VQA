@@ -1,0 +1,4969 @@
+{
+  "accuracy": 99.33481152993349,
+  "total_samples": 451,
+  "correct": 448,
+  "errors": 3,
+  "predictions": [
+    {
+      "question": "is there evidence of an aortic aneurysm <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 11.292411804199219,
+        "CLOSED": -26.739831924438477
+      },
+      "confidence": 11.292411804199219
+    },
+    {
+      "question": "is there hypo-dense consolidation on the left side <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.197444915771484,
+        "CLOSED": -10.344514846801758
+      },
+      "confidence": 4.197444915771484
+    },
+    {
+      "question": "is this an axial plane <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.991578102111816,
+        "CLOSED": -19.41974449157715
+      },
+      "confidence": 7.991578102111816
+    },
+    {
+      "question": "how is the patient oriented <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.838242530822754,
+        "CLOSED": 8.15678596496582
+      },
+      "confidence": 8.15678596496582
+    },
+    {
+      "question": "is there vascular pathology in this image <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.102080345153809,
+        "CLOSED": -11.82656192779541
+      },
+      "confidence": 5.102080345153809
+    },
+    {
+      "question": "is there hypo-dense <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.002729892730713,
+        "CLOSED": -10.304909706115723
+      },
+      "confidence": 4.002729892730713
+    },
+    {
+      "question": ">12 ribs present in the image <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.356438636779785,
+        "CLOSED": -12.740144729614258
+      },
+      "confidence": 5.356438636779785
+    },
+    {
+      "question": "does this represent adequate inspiratory effort <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.797211647033691,
+        "CLOSED": -17.121492385864258
+      },
+      "confidence": 6.797211647033691
+    },
+    {
+      "question": "is there a rib fracture <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.668991088867188,
+        "CLOSED": -20.78778648376465
+      },
+      "confidence": 8.668991088867188
+    },
+    {
+      "question": "is there evidence of any fractures of the ribs <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 11.763212203979492,
+        "CLOSED": -28.421606063842773
+      },
+      "confidence": 11.763212203979492
+    },
+    {
+      "question": "is there any intraparenchymal abnormalities in the lung fields <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.467524528503418,
+        "CLOSED": -20.74578285217285
+      },
+      "confidence": 8.467524528503418
+    },
+    {
+      "question": "is there evidence of any abnormalities of the lung parenchyma <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.93085765838623,
+        "CLOSED": -24.39310646057129
+      },
+      "confidence": 9.93085765838623
+    },
+    {
+      "question": "is there evidence of small bowel obstruction on this image <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.434681415557861,
+        "CLOSED": -16.38735008239746
+      },
+      "confidence": 6.434681415557861
+    },
+    {
+      "question": "is there small bowel thickening present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 10.932324409484863,
+        "CLOSED": -26.771907806396484
+      },
+      "confidence": 10.932324409484863
+    },
+    {
+      "question": "was the patient positioned hypo-dense without hypo-dense <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.171397686004639,
+        "CLOSED": -15.217723846435547
+      },
+      "confidence": 6.171397686004639
+    },
+    {
+      "question": "is the small bowel hypo-dense identified with gi contrast <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.6913628578186035,
+        "CLOSED": -8.886817932128906
+      },
+      "confidence": 3.6913628578186035
+    },
+    {
+      "question": "is there a small bowel obstruction <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.863405227661133,
+        "CLOSED": -12.314749717712402
+      },
+      "confidence": 4.863405227661133
+    },
+    {
+      "question": "there hyper attenuating material along the aortic walls <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.787642478942871,
+        "CLOSED": -23.907062530517578
+      },
+      "confidence": 9.787642478942871
+    },
+    {
+      "question": "there calcifications present on the abdominal aorta <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.070184230804443,
+        "CLOSED": -17.95318031311035
+      },
+      "confidence": 7.070184230804443
+    },
+    {
+      "question": "does this patient have evidence of pneumoperitoneum <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.49050235748291,
+        "CLOSED": -11.421749114990234
+      },
+      "confidence": 4.49050235748291
+    },
+    {
+      "question": "is there evidence of air in the peritoneal cavity <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.878839492797852,
+        "CLOSED": -21.086288452148438
+      },
+      "confidence": 8.878839492797852
+    },
+    {
+      "question": "is the cardiac silhouette less than half the diameter of the diaphragm",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.279972076416016,
+        "CLOSED": -9.908106803894043
+      },
+      "confidence": 4.279972076416016
+    },
+    {
+      "question": "is the cardiac silhouette within normal size limits <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.917147636413574,
+        "CLOSED": -24.080486297607422
+      },
+      "confidence": 9.917147636413574
+    },
+    {
+      "question": "is there hypo-dense of the cardiac contour <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.383052349090576,
+        "CLOSED": -15.110344886779785
+      },
+      "confidence": 6.383052349090576
+    },
+    {
+      "question": "is the cardiac silhouette hypo-dense <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.271975994110107,
+        "CLOSED": -9.91730785369873
+      },
+      "confidence": 4.271975994110107
+    },
+    {
+      "question": "is there evidence of pulmonary edema <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 11.100564956665039,
+        "CLOSED": -27.19078254699707
+      },
+      "confidence": 11.100564956665039
+    },
+    {
+      "question": "is there enlargement of the pulmonary vasculature <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.5156888961792,
+        "CLOSED": -20.517244338989258
+      },
+      "confidence": 8.5156888961792
+    },
+    {
+      "question": "is the cardiac contour normal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.184720993041992,
+        "CLOSED": -22.11793327331543
+      },
+      "confidence": 9.184720993041992
+    },
+    {
+      "question": "is the cardiac silhouette less than half the lateral diameter of the",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.324563026428223,
+        "CLOSED": -10.030244827270508
+      },
+      "confidence": 4.324563026428223
+    },
+    {
+      "question": "is there a left apical pneumothorax <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.696623802185059,
+        "CLOSED": -18.301179885864258
+      },
+      "confidence": 7.696623802185059
+    },
+    {
+      "question": "is the outline of hypo-dense pleura visible in the upper left lung",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.1672208309173584,
+        "CLOSED": -7.762962818145752
+      },
+      "confidence": 3.1672208309173584
+    },
+    {
+      "question": "is there hypo-dense dilation of the right renal pelvis <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.299947738647461,
+        "CLOSED": -19.895978927612305
+      },
+      "confidence": 8.299947738647461
+    },
+    {
+      "question": "is there enlargement of the right renal pelvis <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.738595008850098,
+        "CLOSED": -20.2441349029541
+      },
+      "confidence": 8.738595008850098
+    },
+    {
+      "question": "has the midline of the mediastinum shifted <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 0.6388028264045715,
+        "CLOSED": 0.03184206783771515
+      },
+      "confidence": 0.6388028264045715
+    },
+    {
+      "question": "is there a mediastinal shift <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.040838241577148,
+        "CLOSED": -22.378652572631836
+      },
+      "confidence": 9.040838241577148
+    },
+    {
+      "question": "is the left lung field more radioopaque than the right side <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.3210296630859375,
+        "CLOSED": -14.523691177368164
+      },
+      "confidence": 6.3210296630859375
+    },
+    {
+      "question": "is the left lung field more white <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.314908027648926,
+        "CLOSED": -14.50712776184082
+      },
+      "confidence": 6.314908027648926
+    },
+    {
+      "question": "is the liver normal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.18813419342041,
+        "CLOSED": -19.141019821166992
+      },
+      "confidence": 8.18813419342041
+    },
+    {
+      "question": "is this a typical liver <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.651732921600342,
+        "CLOSED": -10.021913528442383
+      },
+      "confidence": 4.651732921600342
+    },
+    {
+      "question": "describe the lung abnormalities <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -10.642223358154297,
+        "CLOSED": 11.730600357055664
+      },
+      "confidence": 11.730600357055664
+    },
+    {
+      "question": "what abnormalities seen within the lungs <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -12.999536514282227,
+        "CLOSED": 13.479101181030273
+      },
+      "confidence": 13.479101181030273
+    },
+    {
+      "question": "what is under the right hemidiaphragm <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.8456315994262695,
+        "CLOSED": 8.340302467346191
+      },
+      "confidence": 8.340302467346191
+    },
+    {
+      "question": "what is the abnormality by the right hemidiaphragm <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -11.993429183959961,
+        "CLOSED": 12.731271743774414
+      },
+      "confidence": 12.731271743774414
+    },
+    {
+      "question": "is this in the posterior anterior plane <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.377108573913574,
+        "CLOSED": -12.025700569152832
+      },
+      "confidence": 5.377108573913574
+    },
+    {
+      "question": "how would you describe the spleen abnormality <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 0.470019668340683,
+        "CLOSED": 1.7290706634521484
+      },
+      "confidence": 1.7290706634521484
+    },
+    {
+      "question": "what is abnormal about the spleen <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.608558654785156,
+        "CLOSED": 9.611485481262207
+      },
+      "confidence": 9.611485481262207
+    },
+    {
+      "question": "is the image of the hypo-dense system <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 1.8295176029205322,
+        "CLOSED": -4.695483684539795
+      },
+      "confidence": 1.8295176029205322
+    },
+    {
+      "question": "which plane is this image taken <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.261765480041504,
+        "CLOSED": 8.292652130126953
+      },
+      "confidence": 8.292652130126953
+    },
+    {
+      "question": "there multiple or just hypo-dense metastatic hypo-dense <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.893248081207275,
+        "CLOSED": -12.5979585647583
+      },
+      "confidence": 4.893248081207275
+    },
+    {
+      "question": "how many lesions in the spleen <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -5.880721569061279,
+        "CLOSED": 6.338798522949219
+      },
+      "confidence": 6.338798522949219
+    },
+    {
+      "question": "what is abnormal about the pancreas <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.362394332885742,
+        "CLOSED": 7.546695232391357
+      },
+      "confidence": 7.546695232391357
+    },
+    {
+      "question": "why is the pancreas abnormal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -4.497341156005859,
+        "CLOSED": 6.24082612991333
+      },
+      "confidence": 6.24082612991333
+    },
+    {
+      "question": "what abnormalities in the lung apices <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -13.044944763183594,
+        "CLOSED": 13.517449378967285
+      },
+      "confidence": 13.517449378967285
+    },
+    {
+      "question": "what is seen in the lung apices <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.750319004058838,
+        "CLOSED": 7.404510974884033
+      },
+      "confidence": 7.404510974884033
+    },
+    {
+      "question": "the lungs normal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 10.233926773071289,
+        "CLOSED": -25.148679733276367
+      },
+      "confidence": 10.233926773071289
+    },
+    {
+      "question": "is the image study normal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.760916709899902,
+        "CLOSED": -21.70794105529785
+      },
+      "confidence": 8.760916709899902
+    },
+    {
+      "question": "how would you describe the abnormalities <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.162036895751953,
+        "CLOSED": 7.852811336517334
+      },
+      "confidence": 7.852811336517334
+    },
+    {
+      "question": "the lesions ring-enhancing <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.401233673095703,
+        "CLOSED": -12.446330070495605
+      },
+      "confidence": 5.401233673095703
+    },
+    {
+      "question": "what lobe is the lesion located in <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -2.5452706813812256,
+        "CLOSED": 3.810786485671997
+      },
+      "confidence": 3.810786485671997
+    },
+    {
+      "question": "where is the abnormality located <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -12.178382873535156,
+        "CLOSED": 12.76155948638916
+      },
+      "confidence": 12.76155948638916
+    },
+    {
+      "question": "how would you describe the aortopulmonary window <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -4.158173561096191,
+        "CLOSED": 4.941926956176758
+      },
+      "confidence": 4.941926956176758
+    },
+    {
+      "question": "what characteristic finding do you see in the aortopulmonary window <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.374845504760742,
+        "CLOSED": 9.657814025878906
+      },
+      "confidence": 9.657814025878906
+    },
+    {
+      "question": "which sign do you see in the aortopulmonary window in this image",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.287357330322266,
+        "CLOSED": 7.3376336097717285
+      },
+      "confidence": 7.3376336097717285
+    },
+    {
+      "question": "where is the diffuse pleural thickening <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -3.7725884914398193,
+        "CLOSED": 4.742975234985352
+      },
+      "confidence": 4.742975234985352
+    },
+    {
+      "question": "which lung is abnormal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.694133758544922,
+        "CLOSED": 9.298149108886719
+      },
+      "confidence": 9.298149108886719
+    },
+    {
+      "question": "is the mass calcified <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.374969482421875,
+        "CLOSED": -19.995237350463867
+      },
+      "confidence": 8.374969482421875
+    },
+    {
+      "question": "does this look hypo-dense a healthy liver <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.807764053344727,
+        "CLOSED": -11.700495719909668
+      },
+      "confidence": 4.807764053344727
+    },
+    {
+      "question": "is the liver normal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.18813419342041,
+        "CLOSED": -19.141019821166992
+      },
+      "confidence": 8.18813419342041
+    },
+    {
+      "question": "is this a normal x-ray <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.827335357666016,
+        "CLOSED": -22.059961318969727
+      },
+      "confidence": 8.827335357666016
+    },
+    {
+      "question": "is the right hemidiaphragm normal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 10.770881652832031,
+        "CLOSED": -26.419998168945312
+      },
+      "confidence": 10.770881652832031
+    },
+    {
+      "question": "what kind of image is this <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.681478500366211,
+        "CLOSED": 6.866267681121826
+      },
+      "confidence": 6.866267681121826
+    },
+    {
+      "question": "is this in a coronal plane <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.41745376586914,
+        "CLOSED": -20.941913604736328
+      },
+      "confidence": 8.41745376586914
+    },
+    {
+      "question": "is the surrounding hypo-dense normal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.7775239944458,
+        "CLOSED": -21.440216064453125
+      },
+      "confidence": 8.7775239944458
+    },
+    {
+      "question": "is the fat surrounding the pancreas normal <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 10.081659317016602,
+        "CLOSED": -23.490928649902344
+      },
+      "confidence": 10.081659317016602
+    },
+    {
+      "question": "lung markings present in the hypo-dense thoracic cavity <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.153219223022461,
+        "CLOSED": -14.767068862915039
+      },
+      "confidence": 6.153219223022461
+    },
+    {
+      "question": "is there a pneumothorax present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.255880355834961,
+        "CLOSED": -20.58371925354004
+      },
+      "confidence": 8.255880355834961
+    },
+    {
+      "question": "is there more than one organ system present in the image <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.46180534362793,
+        "CLOSED": -11.29366397857666
+      },
+      "confidence": 4.46180534362793
+    },
+    {
+      "question": "how many instances of intussusception in the image <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.098773002624512,
+        "CLOSED": 9.539270401000977
+      },
+      "confidence": 9.539270401000977
+    },
+    {
+      "question": "is there more than one intussusception present <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.491415977478027,
+        "CLOSED": -11.611150741577148
+      },
+      "confidence": 4.491415977478027
+    },
+    {
+      "question": "which side is more clearly visualized <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.286122798919678,
+        "CLOSED": 6.326341152191162
+      },
+      "confidence": 6.326341152191162
+    },
+    {
+      "question": "which lung is hypo-dense <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.686192512512207,
+        "CLOSED": 9.29002571105957
+      },
+      "confidence": 9.29002571105957
+    },
+    {
+      "question": "is the diaphragm clearly visualized on both sides of the thorax <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.085191249847412,
+        "CLOSED": -13.192220687866211
+      },
+      "confidence": 6.085191249847412
+    },
+    {
+      "question": "is the diaphragm obscured <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.183557033538818,
+        "CLOSED": -12.164024353027344
+      },
+      "confidence": 5.183557033538818
+    },
+    {
+      "question": "is the heart wider than more than half the width of the",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.426366806030273,
+        "CLOSED": -17.354816436767578
+      },
+      "confidence": 7.426366806030273
+    },
+    {
+      "question": "how wide is the heart compared to the thorax <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 0.12406986206769943,
+        "CLOSED": 0.9195417761802673
+      },
+      "confidence": 0.9195417761802673
+    },
+    {
+      "question": "is there evidence of subdiaphragmatic free air on the left <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.517234802246094,
+        "CLOSED": -16.59739112854004
+      },
+      "confidence": 6.517234802246094
+    },
+    {
+      "question": "is the free air under the left hemidiaphragm pathologic <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.068069934844971,
+        "CLOSED": -15.204416275024414
+      },
+      "confidence": 6.068069934844971
+    },
+    {
+      "question": "is the gallbladder present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.2063307762146,
+        "CLOSED": -12.094024658203125
+      },
+      "confidence": 5.2063307762146
+    },
+    {
+      "question": "what is the dense mass visualized in the liver <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -2.3434793949127197,
+        "CLOSED": 3.291266441345215
+      },
+      "confidence": 3.291266441345215
+    },
+    {
+      "question": "where is free air hypo-dense hypo-dense in this image <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.102298736572266,
+        "CLOSED": 6.132920742034912
+      },
+      "confidence": 6.132920742034912
+    },
+    {
+      "question": "is there free air in the supraclavicular fossae <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.520950794219971,
+        "CLOSED": -16.6213436126709
+      },
+      "confidence": 6.520950794219971
+    },
+    {
+      "question": "where is the ascending colon <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.532122611999512,
+        "CLOSED": 7.829923152923584
+      },
+      "confidence": 7.829923152923584
+    },
+    {
+      "question": "what structure hypo-dense directly posterior to the appendix in this image <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.097743034362793,
+        "CLOSED": 6.384532451629639
+      },
+      "confidence": 6.384532451629639
+    },
+    {
+      "question": "the borders of the heart clearly visualized <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.120136260986328,
+        "CLOSED": -21.931217193603516
+      },
+      "confidence": 9.120136260986328
+    },
+    {
+      "question": "where is the subcutaneous air collection <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.355475425720215,
+        "CLOSED": 7.594407558441162
+      },
+      "confidence": 7.594407558441162
+    },
+    {
+      "question": "is there subcutaneous air present in the right neck <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.054581642150879,
+        "CLOSED": -17.555810928344727
+      },
+      "confidence": 7.054581642150879
+    },
+    {
+      "question": "is this image taken above the diaphragm <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.750499725341797,
+        "CLOSED": -13.86777400970459
+      },
+      "confidence": 5.750499725341797
+    },
+    {
+      "question": "what is in the left apex <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -4.303353786468506,
+        "CLOSED": 4.679446220397949
+      },
+      "confidence": 4.679446220397949
+    },
+    {
+      "question": "is a pneumothorax present in the left apex <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.9296064376831055,
+        "CLOSED": -17.216571807861328
+      },
+      "confidence": 6.9296064376831055
+    },
+    {
+      "question": "where is the lesion located <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -0.9286816120147705,
+        "CLOSED": 0.9180083870887756
+      },
+      "confidence": 0.9180083870887756
+    },
+    {
+      "question": "which side of the heart border is obscured <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.319060802459717,
+        "CLOSED": 6.357639789581299
+      },
+      "confidence": 6.357639789581299
+    },
+    {
+      "question": "where the kidney <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -2.1764304637908936,
+        "CLOSED": 2.6084001064300537
+      },
+      "confidence": 2.6084001064300537
+    },
+    {
+      "question": "the kidneys present in this image <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.452629566192627,
+        "CLOSED": -13.129300117492676
+      },
+      "confidence": 5.452629566192627
+    },
+    {
+      "question": "is the colon more prominent on the patient 's right or left",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.881467819213867,
+        "CLOSED": -13.79996109008789
+      },
+      "confidence": 5.881467819213867
+    },
+    {
+      "question": "where is the colon most prominent from this view <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -5.746905326843262,
+        "CLOSED": 6.444952487945557
+      },
+      "confidence": 6.444952487945557
+    },
+    {
+      "question": "is the heart size in this image smaller or larger than if",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.408857345581055,
+        "CLOSED": -15.077221870422363
+      },
+      "confidence": 6.408857345581055
+    },
+    {
+      "question": "is the liver visible in the image <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.4220240116119385,
+        "CLOSED": -6.97800874710083
+      },
+      "confidence": 3.4220240116119385
+    },
+    {
+      "question": "is this an axial image <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.974388122558594,
+        "CLOSED": -19.370838165283203
+      },
+      "confidence": 7.974388122558594
+    },
+    {
+      "question": "what structures visible in this image <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.372204780578613,
+        "CLOSED": 6.578667640686035
+      },
+      "confidence": 6.578667640686035
+    },
+    {
+      "question": "what is this hypo-dense hypo-dense densities in the right lung <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -4.49088191986084,
+        "CLOSED": 4.839916229248047
+      },
+      "confidence": 4.839916229248047
+    },
+    {
+      "question": "the temporal bones fractured <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.674774169921875,
+        "CLOSED": -16.394424438476562
+      },
+      "confidence": 6.674774169921875
+    },
+    {
+      "question": "is there consolidation in the lungs <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.993151664733887,
+        "CLOSED": -19.220962524414062
+      },
+      "confidence": 7.993151664733887
+    },
+    {
+      "question": "what type of image is this <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.610152721405029,
+        "CLOSED": 7.747149467468262
+      },
+      "confidence": 7.747149467468262
+    },
+    {
+      "question": "what these opacities anterior to the right kidney <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -3.936445713043213,
+        "CLOSED": 4.385616779327393
+      },
+      "confidence": 4.385616779327393
+    },
+    {
+      "question": "the brain hypo-dense atrophied <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.166099548339844,
+        "CLOSED": -17.12285804748535
+      },
+      "confidence": 7.166099548339844
+    },
+    {
+      "question": "is the hypo-dense of the brain hypo-dense affected <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.017838478088379,
+        "CLOSED": -18.655269622802734
+      },
+      "confidence": 8.017838478088379
+    },
+    {
+      "question": "what is the hypo-dense density hypo-dense to the anterior abdominal wall <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.439530849456787,
+        "CLOSED": 7.630265712738037
+      },
+      "confidence": 7.630265712738037
+    },
+    {
+      "question": "is this an ap image <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.11081600189209,
+        "CLOSED": -15.154561996459961
+      },
+      "confidence": 6.11081600189209
+    },
+    {
+      "question": "what is the plane of this image <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -10.873029708862305,
+        "CLOSED": 11.200738906860352
+      },
+      "confidence": 11.200738906860352
+    },
+    {
+      "question": "is this a ct image <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.438812255859375,
+        "CLOSED": -17.808624267578125
+      },
+      "confidence": 7.438812255859375
+    },
+    {
+      "question": "what type of image is this <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.610152721405029,
+        "CLOSED": 7.747149467468262
+      },
+      "confidence": 7.747149467468262
+    },
+    {
+      "question": "is there leakage of blood <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.147530555725098,
+        "CLOSED": -17.807634353637695
+      },
+      "confidence": 7.147530555725098
+    },
+    {
+      "question": "is there herniation <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.963921546936035,
+        "CLOSED": -14.845531463623047
+      },
+      "confidence": 5.963921546936035
+    },
+    {
+      "question": "what bright white structures form an x <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.074104309082031,
+        "CLOSED": 6.205349445343018
+      },
+      "confidence": 6.205349445343018
+    },
+    {
+      "question": "what the bright white structures hypo-dense hypo-dense an hypo-dense <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -3.8431410789489746,
+        "CLOSED": 4.2124857902526855
+      },
+      "confidence": 4.2124857902526855
+    },
+    {
+      "question": "can you see the esophagus in this image <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.922724723815918,
+        "CLOSED": -13.58633041381836
+      },
+      "confidence": 4.922724723815918
+    },
+    {
+      "question": "is the esophagus visible <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.6556951999664307,
+        "CLOSED": -8.146220207214355
+      },
+      "confidence": 3.6556951999664307
+    },
+    {
+      "question": "is this hypo-dense or hypo-dense <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 2.9872395992279053,
+        "CLOSED": -7.642415523529053
+      },
+      "confidence": 2.9872395992279053
+    },
+    {
+      "question": "is this modality hypo-dense for hypo-dense hypo-dense <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 0.7750160694122314,
+        "CLOSED": -2.7807981967926025
+      },
+      "confidence": 0.7750160694122314
+    },
+    {
+      "question": "can hypo-dense be highlighted with this modality <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.7700576782226562,
+        "CLOSED": -9.914834022521973
+      },
+      "confidence": 3.7700576782226562
+    },
+    {
+      "question": "the kidneys normal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.864225387573242,
+        "CLOSED": -24.07807731628418
+      },
+      "confidence": 9.864225387573242
+    },
+    {
+      "question": "do the kidneys appear to be normal <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.201140403747559,
+        "CLOSED": -10.169361114501953
+      },
+      "confidence": 4.201140403747559
+    },
+    {
+      "question": "the lateral ventricles visible <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.54791259765625,
+        "CLOSED": -20.528417587280273
+      },
+      "confidence": 8.54791259765625
+    },
+    {
+      "question": "can the lateral ventricles be seen <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.57621955871582,
+        "CLOSED": -18.477441787719727
+      },
+      "confidence": 7.57621955871582
+    },
+    {
+      "question": "what hypoattenuated tissue is between the abdominal wall and skin <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.509592056274414,
+        "CLOSED": 9.322989463806152
+      },
+      "confidence": 9.322989463806152
+    },
+    {
+      "question": "what is the dark structure hypo-dense the skin <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.1049699783325195,
+        "CLOSED": 6.3066511154174805
+      },
+      "confidence": 6.3066511154174805
+    },
+    {
+      "question": "does this mass likely represent a hypo-dense process <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.957573175430298,
+        "CLOSED": -10.071614265441895
+      },
+      "confidence": 3.957573175430298
+    },
+    {
+      "question": "is this a hypo-dense process <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.546831130981445,
+        "CLOSED": -11.47092342376709
+      },
+      "confidence": 4.546831130981445
+    },
+    {
+      "question": "is the vertebrae fractured <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.6132636070251465,
+        "CLOSED": -17.62592887878418
+      },
+      "confidence": 7.6132636070251465
+    },
+    {
+      "question": "is there a hypo-dense fracture <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.751825332641602,
+        "CLOSED": -23.501588821411133
+      },
+      "confidence": 9.751825332641602
+    },
+    {
+      "question": "can you evaluate a mediastinum in the shown image <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.1922783851623535,
+        "CLOSED": -16.636777877807617
+      },
+      "confidence": 6.1922783851623535
+    },
+    {
+      "question": "is the mediastinum visualized <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.187416076660156,
+        "CLOSED": -12.662975311279297
+      },
+      "confidence": 5.187416076660156
+    },
+    {
+      "question": "where is the tip of the line <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -5.454582214355469,
+        "CLOSED": 5.6136345863342285
+      },
+      "confidence": 5.6136345863342285
+    },
+    {
+      "question": "where is the tip of the hypo-dense catheter located <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -5.05811882019043,
+        "CLOSED": 5.424499034881592
+      },
+      "confidence": 5.424499034881592
+    },
+    {
+      "question": "do you see hylar lymphadenopathy in this image <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.965067148208618,
+        "CLOSED": -10.871766090393066
+      },
+      "confidence": 3.965067148208618
+    },
+    {
+      "question": "is there hylar lymphadenopathy <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.018171310424805,
+        "CLOSED": -19.530170440673828
+      },
+      "confidence": 8.018171310424805
+    },
+    {
+      "question": "is there a widened mediastinum <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.358550071716309,
+        "CLOSED": -15.507068634033203
+      },
+      "confidence": 6.358550071716309
+    },
+    {
+      "question": "is the mediastinum wider than normal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 10.003804206848145,
+        "CLOSED": -24.280780792236328
+      },
+      "confidence": 10.003804206848145
+    },
+    {
+      "question": "is the heart enlarged <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.986207962036133,
+        "CLOSED": -18.68886947631836
+      },
+      "confidence": 7.986207962036133
+    },
+    {
+      "question": "is there cardiomegaly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.70623254776001,
+        "CLOSED": -14.510429382324219
+      },
+      "confidence": 5.70623254776001
+    },
+    {
+      "question": "is there fluid in the lung <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.567766189575195,
+        "CLOSED": -14.066840171813965
+      },
+      "confidence": 5.567766189575195
+    },
+    {
+      "question": "is this a pleural effusion <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.5778169631958,
+        "CLOSED": -20.99488639831543
+      },
+      "confidence": 8.5778169631958
+    },
+    {
+      "question": "is mass effect present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.212757110595703,
+        "CLOSED": -13.131855010986328
+      },
+      "confidence": 5.212757110595703
+    },
+    {
+      "question": "is there mass effect <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.689189910888672,
+        "CLOSED": -16.877098083496094
+      },
+      "confidence": 6.689189910888672
+    },
+    {
+      "question": "how was this image taken <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -2.4122154712677,
+        "CLOSED": 2.979470729827881
+      },
+      "confidence": 2.979470729827881
+    },
+    {
+      "question": "is there a mass <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.393146514892578,
+        "CLOSED": -16.34971809387207
+      },
+      "confidence": 6.393146514892578
+    },
+    {
+      "question": "is a mass present in this xray <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.220187664031982,
+        "CLOSED": -17.995006561279297
+      },
+      "confidence": 7.220187664031982
+    },
+    {
+      "question": "describe the pathology <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.980440139770508,
+        "CLOSED": 10.371570587158203
+      },
+      "confidence": 10.371570587158203
+    },
+    {
+      "question": "what is the pathology <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -10.33132553100586,
+        "CLOSED": 10.670740127563477
+      },
+      "confidence": 10.670740127563477
+    },
+    {
+      "question": "what organ system is the pathology <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.253416061401367,
+        "CLOSED": 9.565803527832031
+      },
+      "confidence": 9.565803527832031
+    },
+    {
+      "question": "is there brain edema <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.605427265167236,
+        "CLOSED": -16.244579315185547
+      },
+      "confidence": 6.605427265167236
+    },
+    {
+      "question": "is the brain swollen <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.767692565917969,
+        "CLOSED": -13.602304458618164
+      },
+      "confidence": 5.767692565917969
+    },
+    {
+      "question": "what is the location of the cavitary lesion <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.908721446990967,
+        "CLOSED": 7.1113152503967285
+      },
+      "confidence": 7.1113152503967285
+    },
+    {
+      "question": "where is the cavitary lesion located <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.022623062133789,
+        "CLOSED": 7.205202579498291
+      },
+      "confidence": 7.205202579498291
+    },
+    {
+      "question": "there increased vascular markings <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.115291595458984,
+        "CLOSED": -19.658878326416016
+      },
+      "confidence": 8.115291595458984
+    },
+    {
+      "question": "the vascular markings increased <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.2797698974609375,
+        "CLOSED": -17.536134719848633
+      },
+      "confidence": 7.2797698974609375
+    },
+    {
+      "question": "what plane is this film <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.166888236999512,
+        "CLOSED": 9.427132606506348
+      },
+      "confidence": 9.427132606506348
+    },
+    {
+      "question": "what is the location of the mass <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.693127632141113,
+        "CLOSED": 7.9446797370910645
+      },
+      "confidence": 7.9446797370910645
+    },
+    {
+      "question": "where is the mass located <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.39108657836914,
+        "CLOSED": 9.671278953552246
+      },
+      "confidence": 9.671278953552246
+    },
+    {
+      "question": "the mass is found in which part of the pancreas <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.521768569946289,
+        "CLOSED": 8.796034812927246
+      },
+      "confidence": 8.796034812927246
+    },
+    {
+      "question": "what type of mri sequence is displayed in this image <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.772313594818115,
+        "CLOSED": 7.923986911773682
+      },
+      "confidence": 7.923986911773682
+    },
+    {
+      "question": "from what structure is the large hypodense mass hypo-dense from <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.593157768249512,
+        "CLOSED": 6.782066345214844
+      },
+      "confidence": 6.782066345214844
+    },
+    {
+      "question": "what lobe of the brain is the lesion located in <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -4.047597885131836,
+        "CLOSED": 5.277123928070068
+      },
+      "confidence": 5.277123928070068
+    },
+    {
+      "question": "is this an mri <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.4373321533203125,
+        "CLOSED": -17.706172943115234
+      },
+      "confidence": 7.4373321533203125
+    },
+    {
+      "question": "does this patient have a pneumothorax <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.0069780349731445,
+        "CLOSED": -12.865946769714355
+      },
+      "confidence": 5.0069780349731445
+    },
+    {
+      "question": "in what plane was this image taken <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.8356828689575195,
+        "CLOSED": 7.243576526641846
+      },
+      "confidence": 7.243576526641846
+    },
+    {
+      "question": "is this an mri or a ct scan <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.219259262084961,
+        "CLOSED": -19.68622589111328
+      },
+      "confidence": 8.219259262084961
+    },
+    {
+      "question": "can the optic hypo-dense be visualized in this mri image <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.473455429077148,
+        "CLOSED": -11.326180458068848
+      },
+      "confidence": 4.473455429077148
+    },
+    {
+      "question": "in which two ventricles can calcifications be seen on this ct scan",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.052517414093018,
+        "CLOSED": 6.704129219055176
+      },
+      "confidence": 6.704129219055176
+    },
+    {
+      "question": "what part of the body is being imaged here <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.33660888671875,
+        "CLOSED": 8.677303314208984
+      },
+      "confidence": 8.677303314208984
+    },
+    {
+      "question": "does this patient have hypo-dense <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.434497833251953,
+        "CLOSED": -11.2487154006958
+      },
+      "confidence": 4.434497833251953
+    },
+    {
+      "question": "what abnormality is seen on the left side of the frontal lobe",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.799130916595459,
+        "CLOSED": 8.480859756469727
+      },
+      "confidence": 8.480859756469727
+    },
+    {
+      "question": "is this a coronal view <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.4968366622924805,
+        "CLOSED": -16.127609252929688
+      },
+      "confidence": 6.4968366622924805
+    },
+    {
+      "question": "these normal kidney findings <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.668577194213867,
+        "CLOSED": -22.165565490722656
+      },
+      "confidence": 8.668577194213867
+    },
+    {
+      "question": "diaphragm is elevated on which side <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -3.893449068069458,
+        "CLOSED": 4.376428604125977
+      },
+      "confidence": 4.376428604125977
+    },
+    {
+      "question": "which side of the diaphragm is elevated <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.999972343444824,
+        "CLOSED": 7.010371685028076
+      },
+      "confidence": 7.010371685028076
+    },
+    {
+      "question": "where does the l renal vein hypo-dense to <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.162842750549316,
+        "CLOSED": 7.1267218589782715
+      },
+      "confidence": 7.1267218589782715
+    },
+    {
+      "question": "where does the l renal vein hypo-dense into <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.157035827636719,
+        "CLOSED": 7.120543003082275
+      },
+      "confidence": 7.120543003082275
+    },
+    {
+      "question": "does the lesion appear to be wedge-shaped <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.298381805419922,
+        "CLOSED": -12.155777931213379
+      },
+      "confidence": 5.298381805419922
+    },
+    {
+      "question": "is the lesion wedge-shaped <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.543688774108887,
+        "CLOSED": -13.209990501403809
+      },
+      "confidence": 5.543688774108887
+    },
+    {
+      "question": "is the lesion on the left or right side of the brain",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 10.787787437438965,
+        "CLOSED": -25.54753303527832
+      },
+      "confidence": 10.787787437438965
+    },
+    {
+      "question": "what side of the brain is a lesion on <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.5066328048706055,
+        "CLOSED": 7.79718017578125
+      },
+      "confidence": 7.79718017578125
+    },
+    {
+      "question": "what plane is this <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.16711711883545,
+        "CLOSED": 9.42737102508545
+      },
+      "confidence": 9.42737102508545
+    },
+    {
+      "question": "where is there evidence of a pleural effusion <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.017255783081055,
+        "CLOSED": 7.2429728507995605
+      },
+      "confidence": 7.2429728507995605
+    },
+    {
+      "question": "where is the pleural effusion located <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -10.775896072387695,
+        "CLOSED": 11.134812355041504
+      },
+      "confidence": 11.134812355041504
+    },
+    {
+      "question": "is there an acute infarction <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.898921489715576,
+        "CLOSED": -13.97859001159668
+      },
+      "confidence": 5.898921489715576
+    },
+    {
+      "question": "is this consistent with an acute infarction <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.0305891036987305,
+        "CLOSED": -8.136578559875488
+      },
+      "confidence": 3.0305891036987305
+    },
+    {
+      "question": "is this a ct <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.458487510681152,
+        "CLOSED": -17.84845733642578
+      },
+      "confidence": 7.458487510681152
+    },
+    {
+      "question": "where the acute infarcts <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -1.3494682312011719,
+        "CLOSED": 1.52810537815094
+      },
+      "confidence": 1.52810537815094
+    },
+    {
+      "question": "where do you see acute infarcts <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.916074752807617,
+        "CLOSED": 8.451614379882812
+      },
+      "confidence": 8.451614379882812
+    },
+    {
+      "question": "is the trachea located hypo-dense <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 1.1089622974395752,
+        "CLOSED": -1.4211655855178833
+      },
+      "confidence": 1.1089622974395752
+    },
+    {
+      "question": "is the trachea midline <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 0.9770580530166626,
+        "CLOSED": -0.25131863355636597
+      },
+      "confidence": 0.9770580530166626
+    },
+    {
+      "question": "is this the axial plane <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.376683235168457,
+        "CLOSED": -18.045124053955078
+      },
+      "confidence": 7.376683235168457
+    },
+    {
+      "question": "how would you hypo-dense the hypo-dense of the kidneys <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -1.5000348091125488,
+        "CLOSED": 3.027371644973755
+      },
+      "confidence": 3.027371644973755
+    },
+    {
+      "question": "is this a ct of the abdomen <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.703540802001953,
+        "CLOSED": -18.222150802612305
+      },
+      "confidence": 7.703540802001953
+    },
+    {
+      "question": "what type of imaging modality is used to acquire the above image",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -10.376407623291016,
+        "CLOSED": 10.499937057495117
+      },
+      "confidence": 10.499937057495117
+    },
+    {
+      "question": "the image is taken in what plane <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.183526992797852,
+        "CLOSED": 7.457887172698975
+      },
+      "confidence": 7.457887172698975
+    },
+    {
+      "question": "what plane is the above image acquired in <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.155269622802734,
+        "CLOSED": 9.414203643798828
+      },
+      "confidence": 9.414203643798828
+    },
+    {
+      "question": "what is the location of the lesion <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.971255302429199,
+        "CLOSED": 7.164884090423584
+      },
+      "confidence": 7.164884090423584
+    },
+    {
+      "question": "where is the lesion located <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -0.9286816120147705,
+        "CLOSED": 0.9180083870887756
+      },
+      "confidence": 0.9180083870887756
+    },
+    {
+      "question": "how large is the mass in the right upper quadrant <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -5.862639427185059,
+        "CLOSED": 6.273646831512451
+      },
+      "confidence": 6.273646831512451
+    },
+    {
+      "question": "size of the mass in the right upper quadrant <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -3.150810956954956,
+        "CLOSED": 3.5213379859924316
+      },
+      "confidence": 3.5213379859924316
+    },
+    {
+      "question": "is the patient a female or male <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.498793125152588,
+        "CLOSED": -10.782037734985352
+      },
+      "confidence": 4.498793125152588
+    },
+    {
+      "question": "what is the hypo-dense sex of the patient <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -5.992822647094727,
+        "CLOSED": 6.581088542938232
+      },
+      "confidence": 6.581088542938232
+    },
+    {
+      "question": "is the heart enlarged <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.986207962036133,
+        "CLOSED": -18.68886947631836
+      },
+      "confidence": 7.986207962036133
+    },
+    {
+      "question": "is the heart abnormally large <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.132806777954102,
+        "CLOSED": -19.15738868713379
+      },
+      "confidence": 8.132806777954102
+    },
+    {
+      "question": "is this image showing the chest <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.468617916107178,
+        "CLOSED": -18.23309326171875
+      },
+      "confidence": 7.468617916107178
+    },
+    {
+      "question": "what organ system is being imaged <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.253345489501953,
+        "CLOSED": 9.565735816955566
+      },
+      "confidence": 9.565735816955566
+    },
+    {
+      "question": "the hemorrhage is adjacent to what structures <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.777228355407715,
+        "CLOSED": 10.547025680541992
+      },
+      "confidence": 10.547025680541992
+    },
+    {
+      "question": "what structures located near the hemorrhage shown <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.372861862182617,
+        "CLOSED": 6.5794525146484375
+      },
+      "confidence": 6.5794525146484375
+    },
+    {
+      "question": "what major artery of the brain may be affected by the lesion",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -10.40020751953125,
+        "CLOSED": 10.874926567077637
+      },
+      "confidence": 10.874926567077637
+    },
+    {
+      "question": "which major artery of the brain is affected by this lesion <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -10.907777786254883,
+        "CLOSED": 11.368221282958984
+      },
+      "confidence": 11.368221282958984
+    },
+    {
+      "question": "evidence of hemorrhage in the kidneys <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -0.29367995262145996,
+        "CLOSED": -1.1130496263504028
+      },
+      "confidence": -0.29367995262145996
+    },
+    {
+      "question": "is there any hemorrhage seen within the kidneys <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.100141525268555,
+        "CLOSED": -20.046958923339844
+      },
+      "confidence": 8.100141525268555
+    },
+    {
+      "question": "is this a t1 weighted mri <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.642281532287598,
+        "CLOSED": -18.69829750061035
+      },
+      "confidence": 7.642281532287598
+    },
+    {
+      "question": "where the brain lesions located <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.745025634765625,
+        "CLOSED": 11.08350944519043
+      },
+      "confidence": 11.08350944519043
+    },
+    {
+      "question": "which hemisphere of the brain the lesions located in <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.745800971984863,
+        "CLOSED": 8.089366912841797
+      },
+      "confidence": 8.089366912841797
+    },
+    {
+      "question": "in which brain area is the lesion located <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -4.961952209472656,
+        "CLOSED": 6.516525745391846
+      },
+      "confidence": 6.516525745391846
+    },
+    {
+      "question": "where is the lesion located <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -0.9286816120147705,
+        "CLOSED": 0.9180083870887756
+      },
+      "confidence": 0.9180083870887756
+    },
+    {
+      "question": "the tissue within the hyperattenuating ovoid mass adjacent to the ascending colon",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.372883796691895,
+        "CLOSED": 9.242203712463379
+      },
+      "confidence": 9.242203712463379
+    },
+    {
+      "question": "the tissue in the hyperattenuating ovoid mass on the patient 's right",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.366135597229004,
+        "CLOSED": 9.236776351928711
+      },
+      "confidence": 9.236776351928711
+    },
+    {
+      "question": "the lesion seen in the image above is hypo-dense to what hypo-dense",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -2.565786361694336,
+        "CLOSED": 3.1882424354553223
+      },
+      "confidence": 3.1882424354553223
+    },
+    {
+      "question": "the lesion is hypo-dense to what hypo-dense hypo-dense found in the brain",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -1.708615779876709,
+        "CLOSED": 2.345768928527832
+      },
+      "confidence": 2.345768928527832
+    },
+    {
+      "question": "is the heart enlarged <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.986207962036133,
+        "CLOSED": -18.68886947631836
+      },
+      "confidence": 7.986207962036133
+    },
+    {
+      "question": "is the heart abnormally large <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.132806777954102,
+        "CLOSED": -19.15738868713379
+      },
+      "confidence": 8.132806777954102
+    },
+    {
+      "question": "the condition in which a patient has enlarged ventricles as seen in",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.386761665344238,
+        "CLOSED": 8.950541496276855
+      },
+      "confidence": 8.950541496276855
+    },
+    {
+      "question": "what is the condition in which the ventricles enlarged as seen",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.839900970458984,
+        "CLOSED": 9.691225051879883
+      },
+      "confidence": 9.691225051879883
+    },
+    {
+      "question": "what organ system is visualized in the above image <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.241907119750977,
+        "CLOSED": 9.554625511169434
+      },
+      "confidence": 9.554625511169434
+    },
+    {
+      "question": "how was this image taken <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -2.4122154712677,
+        "CLOSED": 2.979470729827881
+      },
+      "confidence": 2.979470729827881
+    },
+    {
+      "question": "what imaging modality is used <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -11.710552215576172,
+        "CLOSED": 11.96417236328125
+      },
+      "confidence": 11.96417236328125
+    },
+    {
+      "question": "in which lobe do you see an abnormal mass in the above",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 0.2318374514579773,
+        "CLOSED": 0.9436127543449402
+      },
+      "confidence": 0.9436127543449402
+    },
+    {
+      "question": "where is the abnormal mass located with hypo-dense to the lungs <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -12.347317695617676,
+        "CLOSED": 13.026500701904297
+      },
+      "confidence": 13.026500701904297
+    },
+    {
+      "question": "what imaging modality was used to take this image <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -11.726991653442383,
+        "CLOSED": 11.98073959350586
+      },
+      "confidence": 11.98073959350586
+    },
+    {
+      "question": "where is the abnormality <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -11.44437026977539,
+        "CLOSED": 12.005918502807617
+      },
+      "confidence": 12.005918502807617
+    },
+    {
+      "question": "what abnormality is present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -11.098384857177734,
+        "CLOSED": 11.50733757019043
+      },
+      "confidence": 11.50733757019043
+    },
+    {
+      "question": "is free air present in this image <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.706522464752197,
+        "CLOSED": -12.201864242553711
+      },
+      "confidence": 4.706522464752197
+    },
+    {
+      "question": "is there free air in the abdomen <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.210897922515869,
+        "CLOSED": -16.91936683654785
+      },
+      "confidence": 7.210897922515869
+    },
+    {
+      "question": "the ventricles enlarged <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.816104888916016,
+        "CLOSED": -19.004701614379883
+      },
+      "confidence": 7.816104888916016
+    },
+    {
+      "question": "is the size of the ventricle abnormal <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.304815292358398,
+        "CLOSED": -14.985891342163086
+      },
+      "confidence": 6.304815292358398
+    },
+    {
+      "question": "how is the patient positioned for this scan <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.744056701660156,
+        "CLOSED": 8.066524505615234
+      },
+      "confidence": 8.066524505615234
+    },
+    {
+      "question": "what is the hypodensity in the liver <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -0.6818928718566895,
+        "CLOSED": 3.08589768409729
+      },
+      "confidence": 3.08589768409729
+    },
+    {
+      "question": "is there a hypodense mass in the liver <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.412527084350586,
+        "CLOSED": -13.129008293151855
+      },
+      "confidence": 5.412527084350586
+    },
+    {
+      "question": "is this patient male or female <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.126792907714844,
+        "CLOSED": -10.12686538696289
+      },
+      "confidence": 4.126792907714844
+    },
+    {
+      "question": "what is the patient 's gender <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.350489616394043,
+        "CLOSED": 9.143339157104492
+      },
+      "confidence": 9.143339157104492
+    },
+    {
+      "question": "is the trachea normal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.332164764404297,
+        "CLOSED": -15.051481246948242
+      },
+      "confidence": 6.332164764404297
+    },
+    {
+      "question": "is the trachea midline <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 0.977057933807373,
+        "CLOSED": -0.2513188421726227
+      },
+      "confidence": 0.977057933807373
+    },
+    {
+      "question": "is there a pneumothorax present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.255880355834961,
+        "CLOSED": -20.58371925354004
+      },
+      "confidence": 8.255880355834961
+    },
+    {
+      "question": "is there free air in the thorax <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.275485992431641,
+        "CLOSED": -11.9012451171875
+      },
+      "confidence": 5.275485992431641
+    },
+    {
+      "question": "what is located immediately inferior to the right hemidiaphragm <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -3.9783618450164795,
+        "CLOSED": 4.520815372467041
+      },
+      "confidence": 4.520815372467041
+    },
+    {
+      "question": "can a mass in the pancreatic head cause a liver injury <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.883078575134277,
+        "CLOSED": -12.976173400878906
+      },
+      "confidence": 4.883078575134277
+    },
+    {
+      "question": "does the liver show an enhancing mass or lesion <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 2.766101837158203,
+        "CLOSED": -5.68345832824707
+      },
+      "confidence": 2.766101837158203
+    },
+    {
+      "question": "is there an enhancing lesion in the liver <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.922214984893799,
+        "CLOSED": -16.462533950805664
+      },
+      "confidence": 6.922214984893799
+    },
+    {
+      "question": "what the black areas at the top of the image <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -4.617572784423828,
+        "CLOSED": 4.949944972991943
+      },
+      "confidence": 4.949944972991943
+    },
+    {
+      "question": "what does the least dense region represent <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -5.1744890213012695,
+        "CLOSED": 5.701247692108154
+      },
+      "confidence": 5.701247692108154
+    },
+    {
+      "question": "what is the orientation of the patient <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.701835632324219,
+        "CLOSED": 10.061819076538086
+      },
+      "confidence": 10.061819076538086
+    },
+    {
+      "question": "is this a coronal section <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.131100177764893,
+        "CLOSED": -17.243833541870117
+      },
+      "confidence": 7.131100177764893
+    },
+    {
+      "question": "there any skeletal joints in the ct <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.112031936645508,
+        "CLOSED": -22.313413619995117
+      },
+      "confidence": 9.112031936645508
+    },
+    {
+      "question": "what skeletal hypo-dense is seen in this image <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.554718017578125,
+        "CLOSED": 7.87837553024292
+      },
+      "confidence": 7.87837553024292
+    },
+    {
+      "question": "can a patient with a hypo-dense hypo-dense get a cxr <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.447056770324707,
+        "CLOSED": -14.230571746826172
+      },
+      "confidence": 5.447056770324707
+    },
+    {
+      "question": "is the lesion on the left or right <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.142155647277832,
+        "CLOSED": -12.118673324584961
+      },
+      "confidence": 5.142155647277832
+    },
+    {
+      "question": "what side is the lesion on <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.128373622894287,
+        "CLOSED": 7.3916544914245605
+      },
+      "confidence": 7.3916544914245605
+    },
+    {
+      "question": "what the hyperdensities on the periphery of the image <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -2.926555871963501,
+        "CLOSED": 3.3262553215026855
+      },
+      "confidence": 3.3262553215026855
+    },
+    {
+      "question": "what the hyperdense opacities located around the periphery <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -2.3040945529937744,
+        "CLOSED": 2.6400036811828613
+      },
+      "confidence": 2.6400036811828613
+    },
+    {
+      "question": "there skull fractures present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.93433952331543,
+        "CLOSED": -21.649518966674805
+      },
+      "confidence": 8.93433952331543
+    },
+    {
+      "question": "is the skull fractured <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.258817672729492,
+        "CLOSED": -19.399694442749023
+      },
+      "confidence": 8.258817672729492
+    },
+    {
+      "question": "is there sign of a skull fracture <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 10.872552871704102,
+        "CLOSED": -26.08725357055664
+      },
+      "confidence": 10.872552871704102
+    },
+    {
+      "question": "is the skull fractured <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.258817672729492,
+        "CLOSED": -19.399694442749023
+      },
+      "confidence": 8.258817672729492
+    },
+    {
+      "question": "what is hypo-dense identified on a pa cxr vs a lateral cxr",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -1.8657888174057007,
+        "CLOSED": 2.627960681915283
+      },
+      "confidence": 2.627960681915283
+    },
+    {
+      "question": "does this image show a pneumothorax <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.462907791137695,
+        "CLOSED": -21.336917877197266
+      },
+      "confidence": 8.462907791137695
+    },
+    {
+      "question": "is there a pneumothorax present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.255880355834961,
+        "CLOSED": -20.58371925354004
+      },
+      "confidence": 8.255880355834961
+    },
+    {
+      "question": "the hemidiaphragms flattened <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.999652862548828,
+        "CLOSED": -14.247833251953125
+      },
+      "confidence": 5.999652862548828
+    },
+    {
+      "question": "is the diaphragm flat on either side <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.2500340938568115,
+        "CLOSED": -6.868343830108643
+      },
+      "confidence": 3.2500340938568115
+    },
+    {
+      "question": "is there any abnormality in this image <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.821328163146973,
+        "CLOSED": -21.832111358642578
+      },
+      "confidence": 8.821328163146973
+    },
+    {
+      "question": "there lesions in this image <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.394144058227539,
+        "CLOSED": -12.902978897094727
+      },
+      "confidence": 5.394144058227539
+    },
+    {
+      "question": "is this an mri <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.4373321533203125,
+        "CLOSED": -17.706172943115234
+      },
+      "confidence": 7.4373321533203125
+    },
+    {
+      "question": "there clearly defined cardiac borders in this image <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.598382472991943,
+        "CLOSED": -14.06395149230957
+      },
+      "confidence": 5.598382472991943
+    },
+    {
+      "question": "which plane is this image in <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.26164722442627,
+        "CLOSED": 8.292531967163086
+      },
+      "confidence": 8.292531967163086
+    },
+    {
+      "question": "name one organ that is captured by this image <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.384583950042725,
+        "CLOSED": 7.861964702606201
+      },
+      "confidence": 7.861964702606201
+    },
+    {
+      "question": "what is wrong with the ventricles <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.173089027404785,
+        "CLOSED": 8.692026138305664
+      },
+      "confidence": 8.692026138305664
+    },
+    {
+      "question": "what ventricular abnormalities seen <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -11.222572326660156,
+        "CLOSED": 11.869498252868652
+      },
+      "confidence": 11.869498252868652
+    },
+    {
+      "question": "is there a hypo-dense mass <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.602489471435547,
+        "CLOSED": -14.168869018554688
+      },
+      "confidence": 5.602489471435547
+    },
+    {
+      "question": "is there a focal mass present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.506502628326416,
+        "CLOSED": -14.026268005371094
+      },
+      "confidence": 5.506502628326416
+    },
+    {
+      "question": "is there air hypo-dense in the body <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.476579666137695,
+        "CLOSED": -14.130126953125
+      },
+      "confidence": 5.476579666137695
+    },
+    {
+      "question": "is there free air present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.487412452697754,
+        "CLOSED": -16.54181671142578
+      },
+      "confidence": 6.487412452697754
+    },
+    {
+      "question": "there pulmonary findings <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.515053749084473,
+        "CLOSED": -20.709735870361328
+      },
+      "confidence": 8.515053749084473
+    },
+    {
+      "question": "is there any abnormality in the lungs <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.792770385742188,
+        "CLOSED": -23.988325119018555
+      },
+      "confidence": 9.792770385742188
+    },
+    {
+      "question": "there abnormal findings <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.297370433807373,
+        "CLOSED": -18.400053024291992
+      },
+      "confidence": 7.297370433807373
+    },
+    {
+      "question": "is anything not normal in the image <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 11.713248252868652,
+        "CLOSED": -29.364912033081055
+      },
+      "confidence": 11.713248252868652
+    },
+    {
+      "question": "what is the condition <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.718908309936523,
+        "CLOSED": 10.272870063781738
+      },
+      "confidence": 10.272870063781738
+    },
+    {
+      "question": "what is the pathology <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -10.331326484680176,
+        "CLOSED": 10.67073917388916
+      },
+      "confidence": 10.67073917388916
+    },
+    {
+      "question": "in what plane was this image taken <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.8356828689575195,
+        "CLOSED": 7.243576526641846
+      },
+      "confidence": 7.243576526641846
+    },
+    {
+      "question": "is the heart enlarged <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.986207962036133,
+        "CLOSED": -18.68886947631836
+      },
+      "confidence": 7.986207962036133
+    },
+    {
+      "question": "is cardiomegaly present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.0180792808532715,
+        "CLOSED": -10.005278587341309
+      },
+      "confidence": 4.0180792808532715
+    },
+    {
+      "question": "what the bright hypo-dense in the gallbladder <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -2.3767201900482178,
+        "CLOSED": 3.2141928672790527
+      },
+      "confidence": 3.2141928672790527
+    },
+    {
+      "question": "gallstones hypo-dense <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.486514091491699,
+        "CLOSED": -13.39713191986084
+      },
+      "confidence": 5.486514091491699
+    },
+    {
+      "question": "is air present in the bowels <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.281987428665161,
+        "CLOSED": -8.91848373413086
+      },
+      "confidence": 3.281987428665161
+    },
+    {
+      "question": "is there bowel gas <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.09184455871582,
+        "CLOSED": -10.27772331237793
+      },
+      "confidence": 4.09184455871582
+    },
+    {
+      "question": "what two hypo-dense of blood vessels impacted <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.711392402648926,
+        "CLOSED": 6.973677635192871
+      },
+      "confidence": 6.973677635192871
+    },
+    {
+      "question": "which blood vessels affected <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.973118782043457,
+        "CLOSED": 8.412768363952637
+      },
+      "confidence": 8.412768363952637
+    },
+    {
+      "question": "what organ is affected by pathology in this image <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.648209571838379,
+        "CLOSED": 8.030693054199219
+      },
+      "confidence": 8.030693054199219
+    },
+    {
+      "question": "what structures involved <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.372770309448242,
+        "CLOSED": 6.5793375968933105
+      },
+      "confidence": 6.5793375968933105
+    },
+    {
+      "question": "is there evidence of a pneumoperitoneum <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.678216457366943,
+        "CLOSED": -16.986303329467773
+      },
+      "confidence": 6.678216457366943
+    },
+    {
+      "question": "is there free air hypo-dense the diaphragm <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.177885055541992,
+        "CLOSED": -17.535261154174805
+      },
+      "confidence": 7.177885055541992
+    },
+    {
+      "question": "what organ system is shown <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.253204345703125,
+        "CLOSED": 9.565594673156738
+      },
+      "confidence": 9.565594673156738
+    },
+    {
+      "question": "what structure is depicted <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.388583660125732,
+        "CLOSED": 7.526178359985352
+      },
+      "confidence": 7.526178359985352
+    },
+    {
+      "question": "what pathology does the image represent <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.780641555786133,
+        "CLOSED": 9.924163818359375
+      },
+      "confidence": 9.924163818359375
+    },
+    {
+      "question": "what is the mass most likely <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.201203346252441,
+        "CLOSED": 7.708295822143555
+      },
+      "confidence": 7.708295822143555
+    },
+    {
+      "question": "the borders of the mass well-defined <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 10.212504386901855,
+        "CLOSED": -24.611051559448242
+      },
+      "confidence": 10.212504386901855
+    },
+    {
+      "question": "the borders of the mass well-defined and is the interior of",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 10.212539672851562,
+        "CLOSED": -24.61113739013672
+      },
+      "confidence": 10.212539672851562
+    },
+    {
+      "question": "is the interior of the mass homogenous <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.712329864501953,
+        "CLOSED": -21.031917572021484
+      },
+      "confidence": 8.712329864501953
+    },
+    {
+      "question": "is the mass well circumscribed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.063837051391602,
+        "CLOSED": -19.363203048706055
+      },
+      "confidence": 8.063837051391602
+    },
+    {
+      "question": "is the mass homogenous <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.840524673461914,
+        "CLOSED": -16.861787796020508
+      },
+      "confidence": 6.840524673461914
+    },
+    {
+      "question": "is the mass well circumscribed and homogenous <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.163751602172852,
+        "CLOSED": -19.598068237304688
+      },
+      "confidence": 8.163751602172852
+    },
+    {
+      "question": "how was the image taken <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -2.7266652584075928,
+        "CLOSED": 3.264657497406006
+      },
+      "confidence": 3.264657497406006
+    },
+    {
+      "question": "what plane was used in this image <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.143235206604004,
+        "CLOSED": 9.404258728027344
+      },
+      "confidence": 9.404258728027344
+    },
+    {
+      "question": "what the two hypo-dense at the base on the image hypo-dense",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -2.866262197494507,
+        "CLOSED": 3.1081032752990723
+      },
+      "confidence": 3.1081032752990723
+    },
+    {
+      "question": "liver findings normal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.933685302734375,
+        "CLOSED": -21.43436050415039
+      },
+      "confidence": 8.933685302734375
+    },
+    {
+      "question": "does the liver look normal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.359386444091797,
+        "CLOSED": -17.92386817932129
+      },
+      "confidence": 7.359386444091797
+    },
+    {
+      "question": "is there air outside the bowel walls <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.061310768127441,
+        "CLOSED": -13.250090599060059
+      },
+      "confidence": 5.061310768127441
+    },
+    {
+      "question": "is pneumoperitoneum hypo-dense <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.6170713901519775,
+        "CLOSED": -8.931487083435059
+      },
+      "confidence": 3.6170713901519775
+    },
+    {
+      "question": "what organ system is visualized <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.252019882202148,
+        "CLOSED": 9.564431190490723
+      },
+      "confidence": 9.564431190490723
+    },
+    {
+      "question": "is the air under the diaphragm pathologic <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.867962837219238,
+        "CLOSED": -18.6584415435791
+      },
+      "confidence": 7.867962837219238
+    },
+    {
+      "question": "is there free air under the diaphragm <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.229314804077148,
+        "CLOSED": -17.7181339263916
+      },
+      "confidence": 7.229314804077148
+    },
+    {
+      "question": "is there biliary duct dilation <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.888952255249023,
+        "CLOSED": -23.92424774169922
+      },
+      "confidence": 9.888952255249023
+    },
+    {
+      "question": "which ventricle is the mass located in <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.687738418579102,
+        "CLOSED": 8.767389297485352
+      },
+      "confidence": 8.767389297485352
+    },
+    {
+      "question": "is this a normal liver <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.98082160949707,
+        "CLOSED": -22.35898780822754
+      },
+      "confidence": 8.98082160949707
+    },
+    {
+      "question": "is there contrast used <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 2.8643991947174072,
+        "CLOSED": -7.085445404052734
+      },
+      "confidence": 2.8643991947174072
+    },
+    {
+      "question": "is there contrast in the patient 's arteries and veins <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.898463249206543,
+        "CLOSED": -16.0224666595459
+      },
+      "confidence": 6.898463249206543
+    },
+    {
+      "question": "is the lesion hyperdense <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.344208717346191,
+        "CLOSED": -12.213310241699219
+      },
+      "confidence": 5.344208717346191
+    },
+    {
+      "question": "is the air under the diaphragm pathologic <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.867962837219238,
+        "CLOSED": -18.6584415435791
+      },
+      "confidence": 7.867962837219238
+    },
+    {
+      "question": "is there free air under the diaphragm <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.229314804077148,
+        "CLOSED": -17.7181339263916
+      },
+      "confidence": 7.229314804077148
+    },
+    {
+      "question": "what modality is used to take this image <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.330251693725586,
+        "CLOSED": 8.576068878173828
+      },
+      "confidence": 8.576068878173828
+    },
+    {
+      "question": "is the aorta size abnormal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.748135566711426,
+        "CLOSED": -18.280181884765625
+      },
+      "confidence": 7.748135566711426
+    },
+    {
+      "question": "is the aorta dilated <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.320693016052246,
+        "CLOSED": -21.845191955566406
+      },
+      "confidence": 9.320693016052246
+    },
+    {
+      "question": "which lung lobe has the least opacities <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -5.292357444763184,
+        "CLOSED": 7.005789756774902
+      },
+      "confidence": 7.005789756774902
+    },
+    {
+      "question": "term for the enhancement of the hypo-dense hypo-dense seen in the image",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.624446392059326,
+        "CLOSED": 7.22985315322876
+      },
+      "confidence": 7.22985315322876
+    },
+    {
+      "question": "is there contrast in the patient 's small bowel <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.7788567543029785,
+        "CLOSED": -11.663827896118164
+      },
+      "confidence": 4.7788567543029785
+    },
+    {
+      "question": "the hyperattenuating ovoid mass is lateral to what structure <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -3.502960443496704,
+        "CLOSED": 3.711453437805176
+      },
+      "confidence": 3.711453437805176
+    },
+    {
+      "question": "what do the two small hyperintensities indicate <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "CLOSED",
+      "correct": false,
+      "output_scores": {
+        "OPEN": -7.294623374938965,
+        "CLOSED": 7.792983531951904
+      },
+      "confidence": 7.792983531951904
+    },
+    {
+      "question": "is the abdominal aorta within normal size limits <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 10.087198257446289,
+        "CLOSED": -23.588436126708984
+      },
+      "confidence": 10.087198257446289
+    },
+    {
+      "question": "can the patient 's hypo-dense be seen in this image <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.837273597717285,
+        "CLOSED": -12.410764694213867
+      },
+      "confidence": 4.837273597717285
+    },
+    {
+      "question": "the clavicles fractured <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.997148513793945,
+        "CLOSED": -21.368927001953125
+      },
+      "confidence": 8.997148513793945
+    },
+    {
+      "question": "which kidney has fluid around it <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -5.640656471252441,
+        "CLOSED": 6.625840187072754
+      },
+      "confidence": 6.625840187072754
+    },
+    {
+      "question": "is pneumo intestinalis present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.323662757873535,
+        "CLOSED": -10.546841621398926
+      },
+      "confidence": 4.323662757873535
+    },
+    {
+      "question": "is this image abnormal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.80517578125,
+        "CLOSED": -17.19080924987793
+      },
+      "confidence": 6.80517578125
+    },
+    {
+      "question": "were both sides affected <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 1.4830719232559204,
+        "CLOSED": -4.150640487670898
+      },
+      "confidence": 1.4830719232559204
+    },
+    {
+      "question": "what is on the anterior wall of the right chest <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.408235549926758,
+        "CLOSED": 9.17446231842041
+      },
+      "confidence": 9.17446231842041
+    },
+    {
+      "question": "is there hydronephrosis in the patient 's kidneys <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.058050155639648,
+        "CLOSED": -17.174596786499023
+      },
+      "confidence": 7.058050155639648
+    },
+    {
+      "question": "the kidney present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.3611180782318115,
+        "CLOSED": -6.620389461517334
+      },
+      "confidence": 3.3611180782318115
+    },
+    {
+      "question": "is there an air-fluid level <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.722271919250488,
+        "CLOSED": -14.144055366516113
+      },
+      "confidence": 5.722271919250488
+    },
+    {
+      "question": "is there a chest tube placed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.471165657043457,
+        "CLOSED": -18.41899299621582
+      },
+      "confidence": 7.471165657043457
+    },
+    {
+      "question": "is there evidence of pneumoperitoneum <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.706883430480957,
+        "CLOSED": -17.02269744873047
+      },
+      "confidence": 6.706883430480957
+    },
+    {
+      "question": "is this a hypo-dense ct <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.026199340820312,
+        "CLOSED": -18.859189987182617
+      },
+      "confidence": 8.026199340820312
+    },
+    {
+      "question": "nodules present in both lungs <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.802548408508301,
+        "CLOSED": -18.757078170776367
+      },
+      "confidence": 7.802548408508301
+    },
+    {
+      "question": "where is the location of the mass <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.069642066955566,
+        "CLOSED": 8.262808799743652
+      },
+      "confidence": 8.262808799743652
+    },
+    {
+      "question": "the structures in the pancreas cystic or solid <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.988779067993164,
+        "CLOSED": -12.63564682006836
+      },
+      "confidence": 4.988779067993164
+    },
+    {
+      "question": "is there an air-fluid level <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.722271919250488,
+        "CLOSED": -14.144055366516113
+      },
+      "confidence": 5.722271919250488
+    },
+    {
+      "question": "is there free air in the abdomen <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.210897922515869,
+        "CLOSED": -16.91936683654785
+      },
+      "confidence": 7.210897922515869
+    },
+    {
+      "question": "how large is the mass <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -5.8765716552734375,
+        "CLOSED": 6.2853803634643555
+      },
+      "confidence": 6.2853803634643555
+    },
+    {
+      "question": "there ekg leads on this patient <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.645502090454102,
+        "CLOSED": -21.490510940551758
+      },
+      "confidence": 8.645502090454102
+    },
+    {
+      "question": "is this a normal image <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.0367431640625,
+        "CLOSED": -22.5731143951416
+      },
+      "confidence": 9.0367431640625
+    },
+    {
+      "question": "the nodules well circumscribed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.036722183227539,
+        "CLOSED": -14.591071128845215
+      },
+      "confidence": 6.036722183227539
+    },
+    {
+      "question": "is this a normal image <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.0367431640625,
+        "CLOSED": -22.5731143951416
+      },
+      "confidence": 9.0367431640625
+    },
+    {
+      "question": "is the appendix enlarged <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.973938941955566,
+        "CLOSED": -18.771595001220703
+      },
+      "confidence": 7.973938941955566
+    },
+    {
+      "question": "what image plane is this <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -10.720186233520508,
+        "CLOSED": 11.019450187683105
+      },
+      "confidence": 11.019450187683105
+    },
+    {
+      "question": "what modality was used <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.02914810180664,
+        "CLOSED": 8.282632827758789
+      },
+      "confidence": 8.282632827758789
+    },
+    {
+      "question": "is there air present under the diaphragm <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.672569274902344,
+        "CLOSED": -14.538684844970703
+      },
+      "confidence": 5.672569274902344
+    },
+    {
+      "question": "is this image normal or abnormal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.352910995483398,
+        "CLOSED": -21.347204208374023
+      },
+      "confidence": 8.352910995483398
+    },
+    {
+      "question": "what modality was used for this image <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.258283615112305,
+        "CLOSED": 8.5062837600708
+      },
+      "confidence": 8.5062837600708
+    },
+    {
+      "question": "where the hypo-dense most intense <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -3.436396837234497,
+        "CLOSED": 3.826962471008301
+      },
+      "confidence": 3.826962471008301
+    },
+    {
+      "question": "where the infarcts <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -4.228684425354004,
+        "CLOSED": 4.479543209075928
+      },
+      "confidence": 4.479543209075928
+    },
+    {
+      "question": "is there a shift of midline structures <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.582207679748535,
+        "CLOSED": -16.60822296142578
+      },
+      "confidence": 6.582207679748535
+    },
+    {
+      "question": "is there fat stranding <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.099574089050293,
+        "CLOSED": -14.888710021972656
+      },
+      "confidence": 6.099574089050293
+    },
+    {
+      "question": "the hypointense nature of the hemorrhage hypo-dense what in terms of the",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -4.713935375213623,
+        "CLOSED": 5.106370449066162
+      },
+      "confidence": 5.106370449066162
+    },
+    {
+      "question": "is the spleen present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "OPEN",
+      "correct": false,
+      "output_scores": {
+        "OPEN": 5.360288619995117,
+        "CLOSED": -12.080804824829102
+      },
+      "confidence": 5.360288619995117
+    },
+    {
+      "question": "is the left kidney abnormal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.906408309936523,
+        "CLOSED": -21.122177124023438
+      },
+      "confidence": 8.906408309936523
+    },
+    {
+      "question": "is there any adenopathy <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.0161333084106445,
+        "CLOSED": -15.394379615783691
+      },
+      "confidence": 6.0161333084106445
+    },
+    {
+      "question": "which side of the lungs hyperinflated <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.677417755126953,
+        "CLOSED": 6.747992038726807
+      },
+      "confidence": 6.747992038726807
+    },
+    {
+      "question": "the hypo-dense hypo-dense enlarged <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.642021179199219,
+        "CLOSED": -18.250350952148438
+      },
+      "confidence": 7.642021179199219
+    },
+    {
+      "question": "what type of mri modality is used <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.364178657531738,
+        "CLOSED": 8.525216102600098
+      },
+      "confidence": 8.525216102600098
+    },
+    {
+      "question": "is this a normal image <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.0367431640625,
+        "CLOSED": -22.5731143951416
+      },
+      "confidence": 9.0367431640625
+    },
+    {
+      "question": "is there cortical atrophy <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.3240885734558105,
+        "CLOSED": -15.543533325195312
+      },
+      "confidence": 6.3240885734558105
+    },
+    {
+      "question": "the hepatic lesions ring enhancing <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.863424301147461,
+        "CLOSED": -11.046369552612305
+      },
+      "confidence": 4.863424301147461
+    },
+    {
+      "question": "what image modality is used <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.626792907714844,
+        "CLOSED": 9.950979232788086
+      },
+      "confidence": 9.950979232788086
+    },
+    {
+      "question": "the costophrenic angles hypo-dense <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.75102162361145,
+        "CLOSED": -9.437275886535645
+      },
+      "confidence": 3.75102162361145
+    },
+    {
+      "question": "is the right diaphragm visualized <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.054609298706055,
+        "CLOSED": -16.979019165039062
+      },
+      "confidence": 7.054609298706055
+    },
+    {
+      "question": "is the abdominal aorta enlarged <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 9.227705001831055,
+        "CLOSED": -21.26033592224121
+      },
+      "confidence": 9.227705001831055
+    },
+    {
+      "question": "is there hilar lymphadenopathy <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.423818588256836,
+        "CLOSED": -15.96095085144043
+      },
+      "confidence": 6.423818588256836
+    },
+    {
+      "question": "is the gastric bubble shown on the left or right side of",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.155773639678955,
+        "CLOSED": -10.210590362548828
+      },
+      "confidence": 4.155773639678955
+    },
+    {
+      "question": "where is the opacity located <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.644895553588867,
+        "CLOSED": 6.797266960144043
+      },
+      "confidence": 6.797266960144043
+    },
+    {
+      "question": "is there evidence of rib fracture <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 10.182863235473633,
+        "CLOSED": -24.12447166442871
+      },
+      "confidence": 10.182863235473633
+    },
+    {
+      "question": "how big is the mass in hypo-dense <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -6.066747665405273,
+        "CLOSED": 6.653344631195068
+      },
+      "confidence": 6.653344631195068
+    },
+    {
+      "question": "pleural opacities located on the left right or both sides of",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.993264198303223,
+        "CLOSED": -12.873543739318848
+      },
+      "confidence": 4.993264198303223
+    },
+    {
+      "question": "the pleural opacities bilateral or unilateral <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.063417434692383,
+        "CLOSED": -17.4049129486084
+      },
+      "confidence": 7.063417434692383
+    },
+    {
+      "question": "is the appendix non-enlarged <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.198763370513916,
+        "CLOSED": -14.674659729003906
+      },
+      "confidence": 6.198763370513916
+    },
+    {
+      "question": "is the appendix normal in size <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 10.318819046020508,
+        "CLOSED": -25.212610244750977
+      },
+      "confidence": 10.318819046020508
+    },
+    {
+      "question": "is this patient in a supine position <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.828216552734375,
+        "CLOSED": -11.9775972366333
+      },
+      "confidence": 4.828216552734375
+    },
+    {
+      "question": "is the patient lying supine <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.020689010620117,
+        "CLOSED": -12.13708209991455
+      },
+      "confidence": 5.020689010620117
+    },
+    {
+      "question": "what is the location of the three circular opacities <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.747357368469238,
+        "CLOSED": 7.7943501472473145
+      },
+      "confidence": 7.7943501472473145
+    },
+    {
+      "question": "where the three circular opacities located <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.106030464172363,
+        "CLOSED": 7.096458911895752
+      },
+      "confidence": 7.096458911895752
+    },
+    {
+      "question": "is this an axial view of the brain <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.020919799804688,
+        "CLOSED": -19.461864471435547
+      },
+      "confidence": 8.020919799804688
+    },
+    {
+      "question": "does the liver contain at least one hypodensity <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 2.764948606491089,
+        "CLOSED": -5.679648399353027
+      },
+      "confidence": 2.764948606491089
+    },
+    {
+      "question": "is there a hypodensity located in the liver <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.212419509887695,
+        "CLOSED": -14.9291353225708
+      },
+      "confidence": 6.212419509887695
+    },
+    {
+      "question": "was this image taken by x-ray <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.413335800170898,
+        "CLOSED": -13.970046043395996
+      },
+      "confidence": 5.413335800170898
+    },
+    {
+      "question": "how is the artifact in this image hypo-dense <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -5.773519515991211,
+        "CLOSED": 6.366085529327393
+      },
+      "confidence": 6.366085529327393
+    },
+    {
+      "question": "what type of artifact is shown in this image <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.71556282043457,
+        "CLOSED": 7.755640983581543
+      },
+      "confidence": 7.755640983581543
+    },
+    {
+      "question": "is this an axial or saggital view of the brain <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.983036994934082,
+        "CLOSED": -19.39026641845703
+      },
+      "confidence": 7.983036994934082
+    },
+    {
+      "question": "what hypo-dense section of the brain is this image <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -4.650590419769287,
+        "CLOSED": 5.097836971282959
+      },
+      "confidence": 5.097836971282959
+    },
+    {
+      "question": "did this patient receive iv contrast <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.8382506370544434,
+        "CLOSED": -10.131906509399414
+      },
+      "confidence": 3.8382506370544434
+    },
+    {
+      "question": "was this patient given iv contrast <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.29120397567749,
+        "CLOSED": -15.768478393554688
+      },
+      "confidence": 6.29120397567749
+    },
+    {
+      "question": "is this a t1 weighted t2 weighted or flair image <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.3573503494262695,
+        "CLOSED": -18.10221290588379
+      },
+      "confidence": 7.3573503494262695
+    },
+    {
+      "question": "what is the imaging modality <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -11.10179328918457,
+        "CLOSED": 11.384706497192383
+      },
+      "confidence": 11.384706497192383
+    },
+    {
+      "question": "what the hyperdense lesions noted at the hypo-dense of the aorta",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -4.559738636016846,
+        "CLOSED": 5.400510311126709
+      },
+      "confidence": 5.400510311126709
+    },
+    {
+      "question": "what the hyperintensities surrounding the aorta <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.301311492919922,
+        "CLOSED": 8.535232543945312
+      },
+      "confidence": 8.535232543945312
+    },
+    {
+      "question": "the lungs hyperinflated <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.574603080749512,
+        "CLOSED": -16.059419631958008
+      },
+      "confidence": 6.574603080749512
+    },
+    {
+      "question": "is there hypo-dense or hyperinflation of the lung <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.394350051879883,
+        "CLOSED": -11.194668769836426
+      },
+      "confidence": 4.394350051879883
+    },
+    {
+      "question": "does the left hemidiaphragm appear flat <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.478654384613037,
+        "CLOSED": -13.313234329223633
+      },
+      "confidence": 5.478654384613037
+    },
+    {
+      "question": "is there hypo-dense of the left hemidiaphragm <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 3.9875504970550537,
+        "CLOSED": -10.284650802612305
+      },
+      "confidence": 3.9875504970550537
+    },
+    {
+      "question": "the small hypo-dense of air seen normal or abnormal <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 11.948192596435547,
+        "CLOSED": -29.586116790771484
+      },
+      "confidence": 11.948192596435547
+    },
+    {
+      "question": "the small hypo-dense of air seen in the lumen normal or",
+      "ground_truth": "OPEN",
+      "prediction": "CLOSED",
+      "correct": false,
+      "output_scores": {
+        "OPEN": -4.882493495941162,
+        "CLOSED": 5.026578903198242
+      },
+      "confidence": 5.026578903198242
+    },
+    {
+      "question": "what is the sequence of this mri <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -5.887404441833496,
+        "CLOSED": 6.282225131988525
+      },
+      "confidence": 6.282225131988525
+    },
+    {
+      "question": "what pathology is seen in this image <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -9.744386672973633,
+        "CLOSED": 9.887842178344727
+      },
+      "confidence": 9.887842178344727
+    },
+    {
+      "question": "what is wrong with the patient 's scan <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -7.835457801818848,
+        "CLOSED": 8.337706565856934
+      },
+      "confidence": 8.337706565856934
+    },
+    {
+      "question": "the sulci abnormal <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.682045936584473,
+        "CLOSED": -21.303808212280273
+      },
+      "confidence": 8.682045936584473
+    },
+    {
+      "question": "do the sulci look abnormal in this image <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 6.7551374435424805,
+        "CLOSED": -17.066600799560547
+      },
+      "confidence": 6.7551374435424805
+    },
+    {
+      "question": "the image probably hypo-dense what hypo-dense finding <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -3.6085731983184814,
+        "CLOSED": 4.152878761291504
+      },
+      "confidence": 4.152878761291504
+    },
+    {
+      "question": "what was probably found incidentally on this image <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -1.4616076946258545,
+        "CLOSED": 1.8963091373443604
+      },
+      "confidence": 1.8963091373443604
+    },
+    {
+      "question": "is this a ct or an mri <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.490845203399658,
+        "CLOSED": -17.928483963012695
+      },
+      "confidence": 7.490845203399658
+    },
+    {
+      "question": "was a ct or mri used to take the above image <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 8.204641342163086,
+        "CLOSED": -19.977529525756836
+      },
+      "confidence": 8.204641342163086
+    },
+    {
+      "question": "this image is taken in what plane <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -5.484973907470703,
+        "CLOSED": 5.902916431427002
+      },
+      "confidence": 5.902916431427002
+    },
+    {
+      "question": "the ventricles an abnormal size <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.835941791534424,
+        "CLOSED": -19.143978118896484
+      },
+      "confidence": 7.835941791534424
+    },
+    {
+      "question": "is the size of the ventricles abnormal <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 7.048304557800293,
+        "CLOSED": -16.738847732543945
+      },
+      "confidence": 7.048304557800293
+    },
+    {
+      "question": "is there any tracheal deviation present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 10.210437774658203,
+        "CLOSED": -24.82112693786621
+      },
+      "confidence": 10.210437774658203
+    },
+    {
+      "question": "is the trachea deviated in this image <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.808018684387207,
+        "CLOSED": -10.87138843536377
+      },
+      "confidence": 4.808018684387207
+    },
+    {
+      "question": "this image is consistent with what condition <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -1.2302498817443848,
+        "CLOSED": 1.5640276670455933
+      },
+      "confidence": 1.5640276670455933
+    },
+    {
+      "question": "what condition does the patient have <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -8.935649871826172,
+        "CLOSED": 9.317441940307617
+      },
+      "confidence": 9.317441940307617
+    },
+    {
+      "question": "where is there obstruction present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -3.2637555599212646,
+        "CLOSED": 3.4607765674591064
+      },
+      "confidence": 3.4607765674591064
+    },
+    {
+      "question": "where is obstruction present if any <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "CLOSED",
+      "prediction": "CLOSED",
+      "correct": true,
+      "output_scores": {
+        "OPEN": -1.1467034816741943,
+        "CLOSED": 1.2604752779006958
+      },
+      "confidence": 1.2604752779006958
+    },
+    {
+      "question": "is the gi hypo-dense is highlighted by contrast <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.466541290283203,
+        "CLOSED": -10.534553527832031
+      },
+      "confidence": 4.466541290283203
+    },
+    {
+      "question": "do you see cardiomegaly <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 4.064970970153809,
+        "CLOSED": -11.181539535522461
+      },
+      "confidence": 4.064970970153809
+    },
+    {
+      "question": "is there cardiomegaly present <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>",
+      "ground_truth": "OPEN",
+      "prediction": "OPEN",
+      "correct": true,
+      "output_scores": {
+        "OPEN": 5.679330825805664,
+        "CLOSED": -14.481823921203613
+      },
+      "confidence": 5.679330825805664
+    }
+  ]
+}
